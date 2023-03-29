@@ -1,0 +1,11 @@
+from component import request
+from component import exportContentToFile
+
+
+def content(URL):
+    table = request.request(URL).findAll('h1')
+
+    for row in table:
+        text = row.text
+        # print(text)
+        exportContentToFile.exportContentToFile(text)

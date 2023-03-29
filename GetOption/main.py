@@ -1,5 +1,5 @@
-import URL
-import pageS
+from GetOption import URL
+from GetOption import pageS
 import content
 
 page = int(pageS.pageS(URL.BASEURL()))
