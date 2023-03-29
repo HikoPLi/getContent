@@ -7,6 +7,5 @@ def content(URL):
 
     for row in table:
         text = row.text
-        print(text)
+        # print(text)
         exportContentToFile.exportContentToFile(text)
-        print(exportContentToFile.exportContentToFile(text))

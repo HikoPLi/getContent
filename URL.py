@@ -7,6 +7,6 @@ def URL(i):
 
 def BASEURL():
 
-    BASEURL = "https://hk.jobsdb.com/hk/search-jobs/python/"
+    BASEURL = "https://hk.jobsdb.com/hk/search-jobs/python/1"
 
     return BASEURL

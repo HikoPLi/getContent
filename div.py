@@ -1,19 +1,16 @@
-import re
-from bs4 import BeautifulSoup as bs
+from bs4 import BeautifulSoup
 
-html = '''
-<div class="_1mil">
-    <div class="_2yjq">Медсестра - Регистратор</div>
-    <div class="pz-o">
-        <span>
-            <span>требуемый опыт работы <span>от года до 3 лет</span></span>
-        </span>
-    </div>
-    <div>80 000 — 120 000 тг</div>
-</div>
+# 假设您已经有了一个HTML页面的字符串变量html，可以通过requests库等方式获取
+soup = BeautifulSoup(html, 'html.parser')
 
-'''
+# 获取select元素
+select_element = soup.select_one('select')
 
-soup = bs(html, 'lxml')
-print(soup.select_one('._1mil div:last-child').text)
-print(soup.select_one('._1mil div:last-of-type').text)
+# 获取select元素中所有的option元素
+option_elements = select_element.select('option')
+
+# 获取最后一个option元素
+last_option_element = option_elements[-1]
+
+# 获取最后一个option元素的值（即option标签的value属性值）
+last_option_value = last_option_element['value']

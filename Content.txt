@@ -1,60 +1,3473 @@
-Assistant Software Engineer
-Assistant Software Engineer
-AI Engineer / AI Developer - Python / Computer Vision | Local Start Up | up to HKD 45k + DB
-AI Engineer / AI Developer - Python / Computer Vision | Local Start Up | up to HKD 45k + DB
-System Analyst / Backend Developer / Software Engineer (PHP)
-System Analyst / Backend Developer / Software Engineer (PHP)
-Software Engineer (Ref.: 200148)
-Software Engineer (Ref.: 200148)
-Senior Data Consultant
-Senior Data Consultant
-Devops Engineer (Python / AWS)
-Devops Engineer (Python / AWS)
-Back-end Developer (Python/Node.js)
-Back-end Developer (Python/Node.js)
-SA; AP - Java, Data, DEVOPS, mobile, Python, Websphere, Salesforce, Technical BA(infra)
-SA; AP - Java, Data, DEVOPS, mobile, Python, Websphere, Salesforce, Technical BA(infra)
-Senior Manager, Customer Value Management - Python and SAS Data Analyst
-Senior Manager, Customer Value Management - Python and SAS Data Analyst
-Data Analyst
-Data Analyst
-Graduate Programme - Data Engineering
-Graduate Programme - Data Engineering
-Data Analyst
-Data Analyst
-Senior Engineer/ Engineer/ Engineering Associate (Temporary)
-Senior Engineer/ Engineer/ Engineering Associate (Temporary)
-Data Scientist (Perm/ Enterprise)
-Data Scientist (Perm/ Enterprise)
-Data Engineer
-Data Engineer
-Data Manager / Engineer / Analyst, Data Platform
+Backend Developer
 Data Manager / Engineer / Analyst, Data Platform
 (Sr/Jr) Associate, Data & Project (Perm)
-(Sr/Jr) Associate, Data & Project (Perm)
-Software Engineer (AI / Machine Learning Programming)
-Software Engineer (AI / Machine Learning Programming)
-Data Engineer (Ref: DE/JDB)
-Data Engineer (Ref: DE/JDB)
+Senior Researcher, AI Algorithm
+Developer (Machine Learning, 35K)
 Software Engineer
-Software Engineer
-Data Scientist/ Software Engineer (MPhil/BEng/ 0-5yr Exp., AI & FinTech)
-Data Scientist/ Software Engineer (MPhil/BEng/ 0-5yr Exp., AI & FinTech)
-Senior Data Engineer （Cloud BI/ Machine Learning/ A.I.）
-Senior Data Engineer （Cloud BI/ Machine Learning/ A.I.）
-Senior Engineer/ Engineer/ Engineering Associate (PI), Machine Learning and Software Development
-Senior Engineer/ Engineer/ Engineering Associate (PI), Machine Learning and Software Development
-Software engineer
+Data Engineer (Ref: DE/JDB)
+Senior Data Engineer - AWS Cloud Implementation
+Senior Data Analyst (SQL)
 Software engineer
 Assistant Data Science Manager
-Assistant Data Science Manager
 Data Analyst - Group level (Multinational Bank)
+Data Analyst
+Senior Software Engineer / Software Engineer
+Senior Engineer (PI) /Engineer (PI), Computer Vision
+Senior Engineer/Engineer, Software Testing and Quality Insurance
+Software Engineer / Quant Developer (Java)
+data analyst, claims department
+Quantitative Developer
+Quantitative Trading: Application Developers - Major Bank
+Senior Data Scientist (Advanced Analytics) - Leading Investment Platform
+Software Engineer (Fresh Graduates are welcome)
+Software Engineer (Ref: JDB/CISC/SE)
+Data Scientist
+Software Developer / Programmer (Digital Transformation) (Ref:011)
+Software Engineer - Backend Development (REF: CESG/SE)
+DevOps/ Frontend/ Backend Developer - FinTech / IT
+Quantitative Researcher (Options)
+Senior Developer (Backend)
+Senior Software Developer
+Senior Developer (Backend)
+Senior Software Developer
+Web Programmer
+Researcher (Technology Development)
+Lead Engineer, System Architect (Data)
+Software Engineer (Technology Development)
+Full Stack Software Engineer - build apps serving millions users !
+Software Engineer / Quant Developer (Java)
+Software Engineer / Software Developer
+data analyst, claims department
+Data Engineer (35-50k, financial service)
+Business Analyst
+Senior Engineer/ Engineer/ Engineering Associate (PI)
+Quantitative Trading: Application Developers - Major Bank
+Post-doctoral Fellow in Global Health and Big Data
+Software Engineer (Fresh Graduates are welcome)
+Software Engineer (Ref: JDB/CISC/SE)
+Data Scientist
+Senior Artificial Intelligence Specialist (Ref.: 200143)
+Computational Scientist / Senior Computational Scientist (ES-CPAS)
+Wireless Sys Design (Baseband Algo) - Asso. Principal Engineer/Lead Engineer/Snr Engineer/Engineer
+Software Developer
+Data Engineer
+Software Engineer
+Fintech Intern – Information Technology (12-month contract)
+Project Specialist (at the rank of Post-doctoral Fellow) (Ref.: 200139)
+DevOps/ Frontend/ Backend Developer - FinTech / IT
+Data Analyst (Ref: JD-DA)
+Developer (Cloud Application, up to 35K)
+Assistant Manager / Manager - Software Engineering
+System Analyst / Analyst Programmer / Backend Developer (Node.js & PHP Laravel)
+Data Science Intern
+Data Architect (Fresh graduates are welcome)
+Senior Software Engineer - C# / .NET (Web)
+Analyst, Business Analytics
+Senior Data Analyst, Consumer Insights and Analytics (2-year Renewable Contract)
+Senior Software Engineer / Software Engineer – Machine Learning on products  (VTT314/J03)
+Data Engineer - IoT / Smart City / Energy Platform (REF: CESG/DE)
+Cloud Engineer (Ref.: 200145)
+Financial Services Assurance - APAC Data Analytics - Enablement Lead - Hong Kong
+Senior Engineer/ Engineer, Software Development
+PowerPlatform Data Analytics Consultant
+Principal Engineer, Software Development
+Internship for Software Supplier Quality (M/PQT10.6) - for 6 months
+Backend Developer
+Programmer / Analyst Programmer
+Software Engineer - AVP - Markets Systems - IT (R000673)
+Wireless Systems Design - Associate Principal Engineer / Senior Lead Engineer
+Data Analyst (Banking)
+Senior Engineer (PI) /Engineer (PI), Ultrasound Imaging Software Engineer
+Data Engineering/ETL Developer/BI Developer/BI Engineer/ SQL Developer/Data Analyst
+Senior Engineer/Engineer, Software Development and Machine Learning
+Bank - Data Science Manager - $45-60K + bonus
+Senior / Software Engineer - Linux (VTT289/J10)
+Data Scientist (Computer Science or Equivalent) (Level 2-5) (Good Bonus)
+Associate / Senior Associate - Data Analytics - Deloitte Forensic - Hong Kong
+Software Developer Trainee
+Data Analyst (Data Management)
+AI Programmer (Machine Learning Development)
+Business Intelligence Analyst (Greater Bay Area Program)
+Deep Learning Scientist
+Chief Software Engineer (VTT299/J04)
+Graduate Programme - Software Developer
+Programmer (Java / Cloud / Backend)
+Master Data Transformation Manager – Commercial
+Full Stack Developer (React/NodeJS/Python) ~20-35K
+Junior Engineer / Trainee - Software Development / Blockchain / MNC Fintech Company / Fresh Graduate
+Data Engineer / Data Analyst
+5G/6G Protocol and Application Software Design - Principal Engineer / Lead Engineer / Engineer
+Backend Software Developer /Golang Engineer (Double pay, Bonus, 14 days AL)
+Senior Associate (Data Analyst) – Risk Advisory Services
+Senior / Software Engineer
+Senior Systems Analyst / Systems Analyst – Technical (HK$55 - 70K) (Ref. No.: 26192)
+SA; AP - Java, Data, DEVOPS, mobile, Python, Websphere, Salesforce, Technical BA(infra)
+Senior Data Analyst / Data Analyst ( Tableau/ Power BI/ SQL/ ETL )
+Data Analyst
+Risk Analyst
+Software Engineer (Big Data, Business Intelligent)
+Data Consumption Leader
+Senior Software Engineer (Technology Development)
+Control Engineer (Robotic System)
+Senior Engineer (PI) / Engineer (PI), Networking Software (5G)
+SAINT LAURENT Senior Data Analyst
+Engineer, System Integration and DevOps
+Senior Software Driver Engineer
+System Engineer/ Programmer
+Junior Programmer
+Data Engineer
+Software Engineer Trainee
+Software Developer / Programmer - 4 days Work per Week + Good Salary
+Graduate Data Scientist
+AI Developer - Virtual Character (Conversational and Performance)
+Fullstack Engineer
+Senior DevOps Engineer (Up to 50K+)
+Junior Programmer (Technology Development)
+Advanced Technology Engineer (Developer)
+CRM Analyst
+Assistant Vice President, Data Management Office
+Machine Learning Engineer (Up to HKD 1 mil)
+5G/6G System Verifications - Senior Engineer / Engineer
+Data Analyst (Group Data Analytics Team)
+Programmer
+Senior Data Analyst, Financial Services
+System Engineer
+Data Scientist - (2300005473)
+Programmer (Technology Development)
+Assistant Software Engineer / Software Engineer
+DevOps Engineer - 25K to 60K ( AWS/Azure Cloud, Python, Java, Docker, Container )
+Business Intelligence Analyst (BI Experts/ Specialist/ Developer)
+Data Analyst / Business Analyst
+Data Management Analyst
+Senior Business & Data Analyst (Life Insurance)
+Intern for Software Engineering in Measuring Tools Engineering Department (PT-MT/ENS) - for 6 months
+Senior Software Engineer | Perm | Up to 50k |
+Software Engineer
+Programmer ( Java/ JavaScript / C# / Python /PHP etc.) (Fresh grad welcome)(20K -45K)
+Software Engineer III
+Data Analytics Manager
+Junior Programmer/ Programmer/ Analyst Programmer (Up to 50K) (Web/ Mobile)
+PowerPlatform Data Analytics Consultant
+Assistant Finance Systems and Data Analytics Manager
+V2X System - Senior Engineer / Engineer
+Data Analyst (5-Day Work Week / Double Pay)
+Senior Software Engineer
+Software Engineer (軟件工程師)
+Analytics Business Analysis/Data Business Analysis/Analytics BA/Data BA
+Software Engineer (Machine Learning)
+AI R&D Engineer - Face Recognition (Computer Science or Equivalent) (Level 2-5) (Good Bonus)
+Programmer
+Digital Project Assistant – Data Analysis (1 year contract)
+System Analyst (Data)
+Data Engineer
+V2X System - Principal Engineer/Associate Principal Engineer/Senior Lead Engineer/Lead Engineer
+(Intern) Programmer / IT Consultant
+Technology - Full Stack Software Engineer
+Data Engineer_ HAECO
+Assistant Analyst - Advanced Technology
+Data Portfolio Manager
+Quantitative Researcher / Senior Quantitative Researcher (quantitative developer)
+Junior IT Programmer
+Sr. Software Engineer/Software Engineer / Sr. System Engineer/System Engineer / Project Executive
+Software Engineer (Level 2-5) ($30-50k+Bonus)
+Senior Engineer / Engineer / Engineering Associate, Software development and Applied Cryptosystem
+Senior Software Engineer (Java or C#)
+Data Scientist
+Risk Analyst (Actuarial Analyst)
+Data Licensing and Policy - Market Data - AVP (R000117)
+Senior Full Stack Developer
+Senior AR / Unity Engineer
+Software Engineer (Backend), IT Department
+Software Engineer (Backend), IT Department
+V2X System - Principal Engineer/Associate Principal Engineer/Senior Lead Engineer/Lead Engineer
+Senior Software Engineer, Data Warehouse (Ref: SSEDW/HL)
+Technology- Backend Software Consultant (Java-Spring boot)
+Linux System Developer
+Senior Data Engineer (Exposure to NLP)
+Software Developer (Java)
+Software Engineer (R&D)
+Game Developer
+System Analyst / Senior Software Engineer - up to HKD$40-60K + Bonus
+Data Operation Support
+DevSecOps Engineer (Remote / Onsite)
+Group Data Scientist
+Business Reporting Analyst
+Full Stack Developer (m/f/d)
+System Engineer / Programmer (Ref: NWCON/BIM/20230328)
+Data Engineer
+System Analyst (Big Data)
+Programmer (Ref: SSO/IT/P/JDB)
+Senior CRM Data Analyst (30-35K, Kwun Tong)
+Java/C# Programmer Junior (5 days work)
+Software Engineer
+(Senior) Backend Software Engineer(s)
+Programmer / Analyst Programmer
+Software Developer
+Senior Software Engineer
+Software Engineer (R&T Development)
+Bank - Data Engineer - $45-55K + bonus
+Senior Software Engineer/Software Engineer
+Analyst Programmer / Programmer
+Senior DEVOPS Engineer (about 46000 a month)
+Programmer (Firmware)
+Windows App Developer
+Analyst Programmer
+Senior Software Engineer
+Analyst Programmer/ Programmer
+Senior Programmer / Data Engineer
+Manager / Senior Manager, Data
+Senior Data Scientist
+Software Specialist / senior software specialist / software supervisor - consumer electronics
+Frontend/ Backend/ Full Stack Developer
+Software Engineer (Listed Company/ C#, .NET/ up to 31K)
+Programmer (Full Time & Freelance) / Software Support ( Full Time )
+Backend Engineer (NFT Game)
+(Sr.) Programmer - Healthcare
+Frontend Developer | 30-45K+ | WFH
+Junior Backend Developer
+Web / Software Developer (Full Time / Freelance / Contract) FromDB Limited
+Assistant Computer Officer / Programmer I (Performing the role of Java Developer) (Ref: 2300348)
+Software Engineer ( Node.js / React.js )
+Programmer (MCS - IT)
+5G Core Network - Associate Principal Engineer / Senior Lead Engineer, Network Software
+Software Developer / Programmer / Software Engineer
+Officer, Business and Health Data Analytics
+System Analyst / Analyst Programmer / Programmer / Frontend Developer (20K-77K) Fresh Welcome
+Analyst Programmer/ Senior Programmer (Backend)
+Analyst/ Associate, Data/Business Analytics & Campaign Management, Consumer Banking
+Business and Data Analyst
+Lead Engineer, System Architect (Application)
+Data Engineer / Officer - Costing (Strong VBA / ACCESS)
+VP - Data Product Development - Emerging Business (R000642)
+Software Engineer (Waste Sorting Robots - SOTA Robotics - Ref. 002)
+Internship - Software Engineer (1 year)
+Image Data Annotation Intern for AI Project
+(Senior) Performance Modeling & Analysis Engineer
+Software Engineer / Senior Software Engineer (API)
+(Senior) DevOps Engineer
+IT Programmer/ Senior IT Programmer
+Senior System Engineer (Front-End)
+Business Data Analyst
+Senior Data Engineer (Real-time Data Platform) - Leading Financial Institution
+(AM) Data Analyst, Banking, 35k
+Game Operations/ Product Assistant 遊戲運營/產品助理 (歡迎畢業生)
+Senior IT Program Developer / IT Program Developer
+IT Engineer/ Programer (Japanese Manufacture Company)
+Software Developer (IoT)
+Senior Data Engineer
+Systems Analyst / Analyst Programmer / Programmer (Job ID: 8584)
+Python/PySpark - Technical Manager(Data Stream) - Reputable NGO
+Analyst Programmer - Top Financial Institution, HK$25K-HK$45K/Month
+AML Manager – Model Validation
+Senior Manager (Data Management, Digitalisation Office)
+Software Engineer / Senior Software Engineer (Web)
+Technical Analysis Consultant
+IT Analyst Programmer/Junior Programmer
+Cloud Engineer -- Start up IT Company
+Senior Programmer (Server)
+Data Engineer - Regional Data Role, Diverse Data Source/Cloud
+Data Analytics Solution Manager
+Intern, Information Technology (HKMA FCAS)
+Software Developer
+Software Developer/Programmer  (Backend/Full Stack )
+Software Quality Assurance Engineer
+Analyst Programmer / Backend Developer / Frontend Developer
+Senior Manager, Artificial Intelligence and Data Science 高級經理（人工智能及數據科學）
+Senior Officer, CRM Data Analytics (Retail Business)
+Back-end Developer (PHP / Laravel)
+Full Stack Developer - Blockchain/Web3 Incubator
 Data Analyst - Group level (Multinational Bank)
-Senior Lead Engineer/Lead Engineer, Computer Vision
-Senior Lead Engineer/Lead Engineer, Computer Vision
-Data Analyst
-Data Analyst
+Senior Associate (Audit Analytics Team) - Assurance
+Cloud Operation Engineer - Top Tier Financial Firm
+Data Analyst Summer Intern (3-4 Months’ Contract, 17k/m) – Tech MNC
+Associate Data Strategist
+STEM / AI Instructor - Full time / Part-time / Freelance
+Lead/ Senior/ Research Engineer
+Analyst Programmer / Programmer
+Backend Developer (Junior/ Senior Java Engineer)
+AVP - Data Engineering - QA Integration - Data Analytics - IT (R000601)
+Business Analyst (Sales Management)
+Fullstack Developer (Only Frontend/ Backend welcome) (In-house | No OT) (Up to 50k)
+Researcher, Data Science
+Full-Stack Software Engineer/ Senior Software Engineer, ViuTV Digital
+Integrated Photonics Engineer (Job Ref. Apply-HK-2204-IPE)
+Analyst Programmer
+Programmer / Analyst Programmer (Ref: AP-03/23)
+DevOps Engineer (Hybrid Work, $50K or above)
+Business Intelligence Analyst (Tableau) | Global Leading Retail | up to HKD 35k
+Senior DevOps Specialist
+Assistant Manager - Statistical Analyst (Retail Strategy)
+Senior Software Developer/ Software Developer
+Full-stack Developer / Analyst Programmer / System Analyst (UP TO 60K)
+Analyst Programmer - RPA - Data Analytics Platform
+Analyst - Business Management
+5G/6G Baseband Algorithm Design - Principal Engineer / Lead Engineer / Engineer
+Senior Software Engineer, Frontend (Ref: SSEF/HL)
+Quantitative Research Analyst (USD$100k-$200 base per year)
+Graduate Programme - Business Intelligence Consultant
+CSR Data Analyst (Leather Goods Division)
+AVP/ Senior Associate/ Associate, Operational Market Intelligence & Business Analytics, Technology & Operation
+Backend Developer Lead - Social Media Application (55 - 75K)
+Analyst Programmer
+Top Technology Scholar Programme - Senior Engineer / Engineer
+Senior / Data Analyst up to 50k
+Quantitative Developer
+Leading Insurer- RPA Developer (Blue Prism)
+Software Developer / Programmer
+Senior Risk Analyst , Investments  (up to 60k)
+Senior Lead Engineer / Lead Engineer, Embedded system engineer
+Senior Data Architect - Oracle Fusion
 Backend Developer
+Senior Analyst Programmer, Application Development
+Sourcing Data Analyst - Diverse Marketing Consultancy
+Software Engineer (Backend) - Java
+Data & Innovation Manager
+Engineer, Firmware Design (Job Ref. No. Apply-HK-2209-EFD)
+Senior Programmer/Programmer (Client App)
+C/C++ development engineer
+Quantitative Analyst
+Data Analyst
+System Engineer / Software Engineer/ Presales Consultant ( 3 vacancies)
+Lead / Senior / Research Engineer (AI Firmware)
+Senior CRM Data Analyst (Contract, Up to 25K)
+(Senior) Sales Analysis Executive
+HK Index Manager
+Summer Intern (Smart Manufacturing)
+Full Stack Developer for a Tier 1 Insurance & Finance company
+Data Scientist (Cancer Screening Products)
+Officer, Risk Analytics
+Web Developers / Senior Web Developers (Java, Drupal, PHP, NodeJS, Frontend Frameworks)
+Advanced Technology Engineer / Software Developer / Programmer
+Senior Software Engineer - C# / .NET (Web)
+Data and Customer Insights Specialist
+DevOps Engineer
+STEM Class Instructor- Robotics
+Software Developer (For Rebranding - Centre of Excellence)
+Application Support Engineer
+DevOps / Software Engineer
+Data Visualization Analyst / Senior Data Visualization Analyst
+Risk Analytics Officer
+Assistant Quantitative Research Manager
+Intern, Data Analytics (FCAS)
+Data Analytics Manager
+Platform Operations Lead
+Analyst Programmer (.NET focus)
+Senior Programmer (Public Institutional, C#)
+Analyst Programmer(PHP)/ Up to 40K
+Associate Principal Engieer/Lead Engineer/Engineer, AI/Machine Learning/Deep Learning
+Senior Solutions Architect
+PowerPlatform Data Analytics Consultant
+Systems Engineer
+Systems Engineer
+Vice President, Data Management, Technology & Operations
+Senior Programmer / Analyst Programmer
+Software Engineer ( Fresh graduate is welcome)
+Execution Trader (Top-Tier high-frequency proprietary trading firms)
+Senior Associates/Manager - Valuation
+Data Project Administrator
+Data Analyst - Costing Team, Manufacturing Group
+Network Software (5G Network Integration) - Senior Engineer / Engineer / Engineering Associate
+Optical Product Engineer (Job Ref.Apply-HK-2101-OPE)
+Part-time Web Programmer
+Multimedia Developer/ Multimedia Programmer
+Data Management Architect (Hong Kong)
+Research Assistant, AI and Data Science
+Associate/VP, Credit Risk Management, Futures Brokerage Risk Management
+Postdoctoral Researcher, Automotive/ Smart Living
+Software Engineer
+Senior Software Engineer (Up to 70K, Nodejs, React, JavaScript, MYSQL)
+Full Time/ Part Time Learning Center Instructor
+Assistant Specialist (Technology Enablement)
+Azure Infra Engineer
+Customer Analytics & Data Science Manager (Campaign)
+Production Support: Payment Application/Azure/High Transaction Application
+Senior System Engineer (PT-MT/ENS)
+Software Developer
+Analyst Programmer / System Analyst
+Analyst Programmer / Java Developer (Airport)
+Options Trader, HFT firm (Mathematics degree is preferred)
+Programmer (25K-35K)
+Web Developer (5 day work)
+Senior DevOps Engineer
+NFT/Blockchain Developer
+做市商交易员 Market Maker Trader (FICC)
+Full Stack Web Developer ( ReactJS, NodeJS, JavaScript / TypeScript )
+Java Developer
+Night Shift Trader, Derivatives Trading Department
+Developer/ Software Engineer
+Backend developer (PHP)
+Analyst Programmer
+Research Assistant/ Programmer
+Software Engineer| .Net | Financial Services (35-45K)
+Analyst Programmer
+Analyst Programmer/Senior Analyst Programmer
+Senior Engineer (PI) /Engineer (PI), System Integration
+Programmer – 1 year Full Time Internship
+MCI Exchange Platform - Business Services Solutions
+Manager, Data Intelligence, Marketing & Digital
+SENIOR DATA ANALYST / DATA ANALYST / ASSISTANT DATA ANALYST – SQL / DATABASE
+IaaS OpenStack Cloud Engineer (Data Center, Up to 60k)
+Data Scientist
+Analyst Programmer (Business Central)
+Programmer
+Senior Membership Intelligence Analyst
+Senior Data Scientist ( Asset management )
+Developer / Senior Developer (Backend)
+Part-time or Full Time Coding Lesson VOD Creator
+Data Engineer
+Software Developer / Programmer / Engineer
+Trainee, Market Risk Management (One Year Contract)
+Software Engineer: Financial Services/Cloud/Microservices/30% Increment
+Senior Manager, Platform Planning and Data Analytics
+Programmer
+System Engineer (Back End)
+Full Stack Developer (30K-40K) (Ref064)
+Analyst Programmer
+Data Center Infrastructure Engineer
+Software Engineer
+Analyst Programmer (REF: A3/AP/1/ITD/JOBS)
+Software QA Engineer / Testing Engineer /  UAT Tester ( Manual / Automation ) - Up to 45K
+System Analyst / Analyst Programmer
+Analyst Programmer
+Senior System Integration Engineer
+System Engineer
+Intern, Compliance (HKMA FCAS)
+Software Developer
+Application Engineer – Engineering Solutions (Greater Bay Area Program)
+Global Markets Research Trainee (One Year Contract)
+Senior Software Engineer / Specialist (FinTech) / Frontend Developer / Data Engineer
+Software Developer/ Programmer/ Analyst Programmer
+Senior Analyst Programmer / System Analyst
+Senior Software Engineer / Software Engineer / Senior System Engineer / System Engineer
+Trading System Developer
+System Analyst / Programmer
+Software Engineer
+Data Analyst (5 days work)
+System Analyst
 Backend Developer
-Lead Engineer, System Architect (Data)
-Lead Engineer, System Architect (Data)
+Data Engineer/ Scientist/ Analyst/ Governance (30K-85K)
+Research Assistant, Software Development
+Analyst Programmer
+Analyst Programmer / Senior Analyst Programmer
+OTC Options Software Engineer (Java/Python) - Leading Investment Bank
+Java Developer
+Assistant / Firmware Engineer
+Business Intelligence Analyst (Group Big Data, Tableau)
+System Analyst / Associate System Analyst (Ref.: IT-SA / IT-ASA)
+Java System Analyst (In-house project; Senior Analyst Programmer welcome) (Perm. Up to 60k + bonus)
+Data Scientist / Computational Scientist
+Associate (Audit Analytics Team) – Assurance
+Group Data & Analytic Strategy Lead - IT
+Regional Analyst , Business Insight & Sales Planning
+System Engineer (Cloud/ DevOps)
+Analyst Programmer (eHealth Products Management) - Various Posts (Ref: AP/HOITD2303005/I2312)
+Manager /Senior Manager, Data Architect - Application
+Data Integration Lead
+Senior Data Architect
+Application Developer
+Solution Lead (Data Integration)
+Research Assistant/ Postdoctoral Fellow
+ETL Developer
+DevOps Engineer
+(Senior)System Analyst (Node.js, React/React Native)
+AI Developer
+DevSecOps Engineer
+DevOps Engineer
+Executive - Product Management
+Senior System Engineer (Front End)
+Leading Insurer - Tech Lead (mobile app+web application)
+Senior System Engineer - AWS / Cloud platforms - Salary Up to 70K + Bonus - Inhouse Permanent Role
+Research Assistant (RTH)
+Analyst Programmer
+風險管理專案經理
+Front-End R&D Software Engineer
+Integration Lead (Hong Kong)
+Data Administrator / Data Analyst (1-year renewable contract)
+System Analyst Programmer – C++ (Ref: JD-SAPC)
+Analyst, Credit Policy & Quantitative Analysis
+Programmer - Fresh Grad (5 days work)
+Assistant Data Manager/ Senior Data Analyst
+Elite Internship Program 2023
+CRM Analyst (Data Modelling)
+Data Scientist (Perm/ Insurance)
+Data Analyst - Customer & Vendor Experience
+Software Engineer, API/Web
+DevOps Architect
+Embedded Firmware Engineer - 5-day work in Science Park, Shatin
+Principal Systems Analyst - Assistant Vice President - Listing System - IT (R000293)
+Analyst Programmer
+Programmer
+Software Developer
+Principal Engineer / Principal Architect
+Senior Software Engineer (Python/Node.js)
+Junior Programmer / Programmer (Fresh Grad Welcome / TST)
+Control & Risk Management Manager / Test Lead Specialist
+System Architecture Specialist (FX/MM/FX Derivatives)_Tech Company
+Fresh Grad Programmers (Technical Skills Not Required) - Major Bank
+Developer (5 positions)
+Principal Engineer, Digital System Design
+Postdoctoral Fellow / Research Associate (p3.2 - AI Based Safety Assurance)
+Programmer / IT Associate Trainee
+Software Engineer / Associate Software Engineer
+System Analyst
+Post-doctoral Fellow
+IT Specialist, JAVA (Programmer/ Developer)
+Junior Programmer
+Data Analyst - Operating Platforms & Analytics - Fintech -Python
+Manager, Business & Data Analysis
+Senior Manager (Data Platform) (Banking /Insurance) (70-80K)
+Senior Quantitative Trader (USD$100k-$300 base per year)
+Analyst Programmer
+Senior Engineer (PI) /Engineer (PI), Software Development and Machine Learning
+WFH - Data Analyst / Data Engineer - Up to 50K
+C# Analyst Programmer (Up to 30k | Freshgrad welcome | Solution Provider)
+Project Analyst - Python & VBA (Part-time / WFH)
+Assistant Manager, Digital Analytics
+Senior Data Analyst - CRM
+Data Science Analyst (MNC Insurer, up to 35k)
+Japanese Speaking IT programmer ~37K
+Growth Data Engineer - Experience in Databricks and Python
+Data Analyst / Assistant Data Analyst (CRM)
+Senior Lead Engineer / Lead Engineer, Hardware development
+Data Analyst (models, analytics)
+Associate Principal Engineer / Senior Lead Engineer / Lead Engineer, Digital IC Design
+Programmer / Analyst Programmer / Senior Analyst Programmer (5 days work)
+Programmer (Junior/Fresh Grad Welcome to Apply)
+Business Analysis Executive
+DevOps Engineer (Cloud Engineering)
+System Analyst / Analyst Programmer-Microsoft Dynamics AX(2 Openings, Good package, Double Company)
+Automation Development Lead
+Full Stack Developer | 30-45K+ | WFH
+Senior Data Analyst / Assistant Manager in Data Analytics (BI System design and Data Analysis)
+Programmer (Fresh Graduate)
+Assistant / Engineer (Network Development - 09)
+Programmer
+STEM Instructor and Curriculum Developer (part-time)
+Project Manager / System Analyst / Analyst Programmer / Mobile Developer/ Programmer
+Application Engineer
+Senior Engineer / Engineer, FPGA and System engineer
+Systems Engineer
+Senior Research Scientist
+Analyst Programmer ( Web Platform )
+Senior Data Engineer
+Analyst Programmer - Web applications, System & API development
+Analyst Programmer
+Internship Programmer
+Systems Analyst (Go-Lang)
+Software Engineer (Ref: SE-JDB)
+Application Architect / Technical Architect / System Architect
+Java Programmer
+Data Engineer (New Media Business)
+Research Assistant – Department of Mathematics, Statistics and Insurance
+Database Administrator (DBA)
+Operations Intern
+People Technology Analyst (HRIS | Data Analytics)
+Perm Opportunity|| Power BI Developer || Salary: As per the market standards(Open Budget)
+Business Analyst / Data Analyst (Banking Industry) (20-45K, negotiable)
+Senior Software Development Analyst/Technical Lead - Expert AI Enabling Limited
+Analyst Programmer / Programmer (Information Technology)
+Senior Analyst Programmer (solution development / data analytics) - Specialist Advisory Services
+Technical Lead / Manager (Software Development)
+Postdoctoral Researcher, AI and Data Science
+Postdoctoral Researcher, AI and Data Science
+Senior Developer (Backend - Oracle, SQL)
+Technical Application Developer
+Application Architect (Java), Adobe cloud Architect, Salesforce Consultant, SA (Java)
+Global Markets - Structured Credit Trade Support - Contract (Extendable)
+Product Control (Contract)
+System Analyst (Dynamics AX) - Salary upto HK$80,500 x 13 months + 4 Days Work per Week
+Senior Analyst Programmer / Analyst Programmer (Perm) - Bank (HK$35K - $45K) (Ref. No.: 26180)
+Digital Analyst, Innovation
+Data Scientist
+Senior Data Analyst (Equity Background Preferred)
+Data Center Operator - on shift
+Full Stack Developer
+Analyst Programmer / Programmer
+Senior Information Officer/ Information Officer (Analyst Programmer) (Post Ref.: 21/261)
+Deputy Manager, Data Platform & Visualization
+Junior/Senior Software Engineer (Backend Focused)
+Cloud / DevOps Engineer
+Intern – Credit & Risk Management
+Principal Systems Analyst - Assistant Vice President - Cash Clearing Systems - IT (R000354)
+Software Project Manager (Public Sector)
+Software Engineer (ACT)
+Process Analysis Manager / Assistant
+Assistant Business Analytics Manager - Banking Industry
+Senior Associate / Vice President - Risk Management Dept.
+Cloud Engineer - In House + Perm, 13 months salary + attractive bonus
+Senior Software Engineer, Trading Applications Front End and Test Automation Developer
+Analyst Programmer / Senior Analyst Programmer (Frontend)
+Web/ Mobile System Analyst
+Cloud Engineer / Devops Engineer (Perm role, 5days work, 25k-40k+bonus)
+Financial Analyst X2/Software Engineer/Hardware Engineer/IT Support/ IT Officer(Top Urgent)
+Software Engineer (Java) | In-house | 60K+
+Assistant Manager / Manager, Market Risk (Trading Book)
+Data Scientist/Engineer
+Data Specialist / System Analyst / Business Analyst - ( MPF | Pension ) - New Team (5 openings)
+(Senior) DevOps Engineer (CI/CD) - IT
+Backend Programmer
+Analyst Programmer - Web & App (5-day work)
+Programmer / Analyst Programmer
+Programmer / Junior Programmer
+Senior Analyst Programmer / Systems Analyst / Senior Systems Analyst (HK$45 – 70K) (Ref. No.: 22167)
+Analyst Programmer / Senior Analyst Programmer
+Cloud System Engineer (Digital Asset Financial /Insurance Company)
+Senior Software Engineer (Financial Services)
+System Analyst - Java (Financial, statutory body)
+IT Specialist - Associate - Development & Support - 12months Contract (IRC18319)
+Risk Assistant Manager (Listed Chinese securities)
+Senior Unreal Engine/ Unity Developer - Blueprints
+Application Developer
+Software Engineer/ Java Developer (Frontend / Backend)
+Analyst,  HRIS & Data Analytics
+Senior Information Officer / Information Officer (Programming) (Post Ref.: 23/38)
+Deskside Engineer
+Product Engineer
+Business Analyst (Data project)
+Data Analyst
+Developer Associate - Digital Centre - Data & Analytics – IT (R000638)
+Terminal Automation Analyst
+Analyst Programmer
+Director / Senior Manager, Data Architect & Management
+System Analyst/ Application Architect
+Quantitative trader, Cryptocurrencies
+Full Stack Tech Lead [Cantonese Speaking] - Insurance - 50K+
+Analyst Programmer / Software Engineer (Odoo / Python)
+Software Engineer
+Senior Engineer (PI) /Engineer (PI), Hardware Development Engineer
+Application Developer(s) – (Frontend / Backend / Full-stack)
+Analyst Programmer / Senior Analyst Programmer (Backend)
+Java Analyst Programmer/ System Analyst [Perm Role, Bank, 35 -50K]
+Java Software Engineer
+Manager - Software Engineer (HK Listed Tech Firm)
+Data Engineer (welcome fresh grad, 25k-45k, perm role)
+Actuarial Data Analyst (2-Year Contract)
+Analyst Programmer / Programmer (Ref. JDB/DS/AP)
+Programmer
+Research Engineer
+System Analyst (Data Management, Wong Chuk Hang, over $55K)
+System Engineer
+Senior Digital Developer
+Software Engineer
+Supply Chain Management Planning Officer (System solution) (Flexible Working hours)
+Engineer - Transmission
+Deputy Executive Manager, Racing Wagering Product Data Analytics, Wagering Products Division
+Systems Engineer
+Development Lead / Senior Development Engineer (Core Banking – Open Platform)
+Backend Developer
+Automation and Application Developer
+Risk Management Manager - Credit Risk Modelling (Ref: RMM-CRM-KT-JB-NCB)
+Programmer / Analyst Programmer
+System Analyst / Analyst Programmer (Public Sector / Gov - Web Application )
+Analyst Programmer/ Programmer (Web/ Java/ Mobile App) (20K-55K)
+Programmer/Analyst Programmer
+System Engineer
+Lead Engineer/ Senior Engineer/Engineer (Ref. No.: CAiRS-LE/SE/P.2.1)
+Cloud System Engineer (New Media Business)
+Senior/System Analyst (BI & Data Management), Information and Technology Transformation
+Web Developer / Java Programmer
+Assistant Technical Manager, Systems Assurance - ITOS - 298
+Programmer / System Developer
+System Analyst
+Data Analyst, EC Marketing
+DCM Trainee (One Year Contract)
+ETL Specialist / Data Analyst
+Junior Full Stack Web Developer (React + Ruby/Rails or Hanami)
+Business Analytics Manager - Omnichannel Analytics
+Consumer Experience & Data Insights Manager (CRM data & campaign focused)
+Digital Experience Executive - Travel Shopping
+Research Assistant – Department of Mathematics, Statistics and Insurance
+Solutions Specialist – Microsoft 365
+(Senior) Data Scientist
+Algorithmic Trading Developer, Financial Engineering - Equity Sales and Trading
+Principal Researcher / Senior Researcher
+Fullstack Software Engineer - Financial Technology
+Programmer - IT Architecture
+Intermediate Test Engineer
+QA Engineer - Digital app
+Field Application Engineer – Engineering Solutions (Greater Bay Area Program)
+Software Quality Assurance Engineer
+Test Engineer - Pension
+Assistant Software Engineering Manager / Senior System Analyst
+Cloud Data Engineer, Leading insurance company
+Front-end/App Developer
+Business Analyst
+Systems Specialist, AIX / Linux (IT Data Centre)
+System Analyst
+Software Engineer (HKHPC-PSD)
+Developer (Web and Mobile Development) (Ref: JD/D)
+Programmer / Junior Programmer ( 5-day work )
+Database Administrator
+Database Administrator - Renaissance College
+Software Developer / Programmer ( Frontend / Backend / Full Stack )
+Programmer
+React Native Developer - Global Leading Technical Firm - HKD$30k-$50k
+C# .Net/ React Node Analyst Programmer/ System Analyst/ Team Lead (Perm; Up to 55k + bonus)
+Data Science Lead [Managerial Level]
+Senior Programmer
+Programmer
+Software Engineer (QA and CS)
+Database Consultant / Specialist up to 65k
+PowerPlatform Data Analytics Consultant
+Android Developer
+Deputy Director / Senior Manager / Chief /Principal Engineer,  AI/Machine Learning /Deep Learning
+Programmer / Analyst Programmer (Java, Mobile apps, FinTech) Welcome Fresh Graduates
+System Support Analyst
+System Analyst - IMH/ Data Services
+Analyst Programmer / Senior Analyst Programmer (.NET, MSSQL) (5-Day Work)
+Data Architect
+Digital Solution Lead
+Full Stack Developer - React Native, AWS, and Firebase
+JavaScript Web Developer (Construction | Up to 45k)
+Programmer / Analyst Programmer (Information Technology Services Department)
+(Senior) Business Intelligence Project Officer
+Project Manager - Data & Analytics
+C++ Developer - Market Data System Management - IT - Associate (IRC28980)
+(Senior) System Analyst - IBM Development team (3 x Openings)
+Marketing Analyst (Asso/Analyst/Senior) (Demand and Capacity Management Project) – 1 year contract
+Analyst Programmer (5-day work)
+Web Programmer / Web Developer (In-house) – Marketing Department
+Consultant / Senior Consultant - Analytics and Reporting - CMD - FCS - Hong Kong
+Senior Officer (Retail Banking/ Customer Value Management/ SAS)
+System Analyst
+Assistant Manager/Senior Officer, Business Solutions and Report Management (MIS focus)
+Trading Floor Application Support
+Head of Data Engineering
+Programmer  | ( Backend / Frontend )
+Analyst Programmer I (Hong Kong Transport Services-Operations) (Ref: 2200018N)
+(Assistant) CRM Analyst (Tableau)
+Assistant Engineer - Data Engineering
+Programmer
+Multimedia Developer/ Multimedia Programmer
+AI Researcher/Engineer
+Principal Software Engineer
+RPA developer
+Quality Assurance Engineer - UAT / Manual Software Testing (FinTech | Brokerage Solution)
+Senior Engineer / Engineer – Software & Electronic Design
+Solutions Developer
+Java Analyst Programmer / Senior Analyst Programmer
+Trading Assistant (Analyst/Senior Associate)
+Cloud Engineer
+Software Developer / Programmer
+RESEARCH OFFICER / SENIOR RESEARCH OFFICER –  QUANTITATIVE RESEARCH
+.Net Programmer (Multiple Vacancies, 5 days work, in-house)
+System Analyst / Analyst Programmer (.net / Java)
+Engineer - Civil
+(35K - 45K) Digital Engineer / Assistant Digital Engineer (digital innovation)
+Solution Architect
+HTML5 Game Programmer / Analyst Programmer
+Network Administrator
+Senior Data Engineer
+System Analyst
+Senior Backend Developer, FinTech
+Assistant Manager / Manager - Software Engineering
+System Engineer (System Architecture)
+Junior Developer, Digital Enablement (12-month Contract)
+Analytics Intern - Loyalty Program (SQL)
+Data Analyst - Group level (Multinational Bank)
+Web Developer / Web Programmer
+Software Quality Assurance Engineer
+Cloud Sales Engineer
+Developer (Government Sector/ JAVA)
+SAP ANALYST PROGRAMMER
+System Administrator
+Java Developer (Senior System Engineer - System Architecture)
+Senior Officer / Officer, Customer Strategy and Planning (Retail Banking)
+IT Support
+Analyst or Senior Analyst or Associate Manager(Bangkok Based, relocation provided)
+Tax Transformation Specialist (MJ002409)
+Senior Solution Lead - Data Integration and Data Governance
+Development Lead - API and Microservice
+PHP/Node.js Backend Developer – Leading Digital Marketing Firm – HKD$30k-50k
+System Analyst/Business Analyst/Analyst Programmer (Bank/Govt/Comm) - Fresh Welcome
+Full Stack Developer | Integrity Consultancy firm (UK & HK)
+Junior Full Stack Engineer
+Senior Cloud Engineer | Perm | Up to 50k |
+Director, Secured Systems Platforms
+System Engineer - IoT Projects (REF: ATECP/SE)
+Engineer – Robotic Process Automation (Greater Bay Area Program)
+Analyst Programmer / Programmer (Java) 5 Days
+Research Executive - Quantitative (Grad Job)
+System Analyst - Healthcare IT Solutions
+Software / Machine Learning Engineer
+Data Engineer - IoT / Smart City / Energy Platform (REF: CESG/DE)
+Data Automation Analyst (VBA)
+PHP Programmer
+Back-end Developer(Java)
+Database Administrator (Vitual Bank)
+Cloud Engineer | Up to 50k |  Health Tech | Various other openings - Please keep reading
+IT Graduate Trainee
+Software Engineer
+Programmer/Analyst Programmer – Banking Projects
+Textile Engineer – Specialized in Knitting or Weaving (Ref. No.: HKRITA-0520-03)
+Head of Machine Learning (Internet Firm Background preferred)
+Technology - Test Lead
+System Analyst
+Analyst Programmer/Senior Analyst Programmer (Technology Development)
+Customer Analytics & Data Science Manager  (MIS & Modeling)
+Full Stack Web Developer (React + NodeJS)
+Analyst Programmer (Full remote, back end)
+Market Analyst (SQL, Python focus)
+Automation Test Engineer
+Systems Analyst / Analyst Programmer (Ref: 23000GS)
+Senior/ Software Engineer (Digital Workforce, BSS & Contact  Center)
+Data Manager - Wealth and Personal Banking
+Junior Full Stack Web Developer (React + NodeJS)
+Software Engineer/Analyst Programmer (scrum)
+Senior Software Engineer / Software Engineer - Full Stack/Frontend/Backend ( React / Node.js )
+Associate/ Analyst, Specialist, Credit Portfolio Management, SME Banking (Data analytics)
+SENIOR PROGRAMMER/ PROGRAMMER/ PROGRAMMER TRAINEE (IT Department)
+Consulting - Data & Analytics - Data Strategy and Governance- Senior Manager - Hong Kong
+Analyst Programmer
+Analyst Programmer, Applications
+Senior Platform Engineer (Cloud) - Large Enterprise Company
+(Assistant) Quality Assurance Manager (Data Platform)
+Analyst Programmer / Senior Analyst Programmer
+Software Architect, Data Engineering (Junior/Senior)
+Senior Data Analyst – Property Industry
+VP of IT, Digital Health Technology &  Innovation
+Project Data Analyst (Engineering)
+Bank - RPA Developer - $40-50K + bonus
+Manulife: 6.5 months Actuarial Internship Program
+Programmer / Senior Programmer up to 30k (FG welcome)
+Analyst Programmer - Java (2 years contract) - Insurance
+Crypto Trader - Asset Management (Entry-Level Candidates Welcome!)
+Senior DEVOPS Engineer (about 46000 a month)
+Mathematical Scientist and Researcher
+Senior Officer, Customer Value Management (SAS programming)_Bank
+Frontend Developer
+Hong Kong – Consultant/Senior Consultant, Risk Consulting, Financial Risk Management (ALM)
+Software Engineer
+Senior Engineer (R&D)
+Analyst Programmer / Programmer
+Sales Executive/ Sales Trainee
+Assistant Vice President, Digital Channel (Digital Governance and Analytics)
+System Analyst C# (18-20% increment)
+Full Stack Web Developer (React + Ruby/Rails or Hanami)
+Senior Manager, Data Management (5 days)
+Senior Engineer (RFIC Design)(Technology Development)
+Software Engineer
+Senior Cloud Engineer
+Solutions Engineer, APAC - Fintech / Banking Finance (Up to 45K)
+Software Engineer, Developer C#, around 40K
+Credit Analytics Assistant (Virtual Bank)
+Data Analyst (Big Data, Hypotheses testing)
+Solution Analyst
+Web Developer (Fresh graduates are welcome!)
+Associate Developer - Asset Management IT Portfolio
+(Senior) System Analyst / Analyst Programmer / Programmer / Frontend Developer (20K-76K)
+Senior Research Assistant (AI Specialist) (Full-time / Part-time) – Department of Computing
+Senior Reporting & Analytics Analyst/ Data Analyst/ Business Analyst
+ICT & Computer Science Instructor
+System Analyst (Web) - Multiple vacancies
+(Senior) Data Scientist
+Project Engineer (Robotic System)
+Senior System Analyst (R&T Development)
+Analyst Programmer
+Software Engineer (React Native | Mobile | Global)
+Technical Director, ViuTV Digital
+AM/ Senior Officer, Customer Analytics (Retail Banking)
+Full-Stack Developer (Department: Pycom; Technology: Node.js and React.js)
+System Architect
+Database Consultant / DBA up to 70k
+Senior System Engineer / System Engineer (Data Centre Virtualization)
+Manager, Data Governance, Marketing & Digital (1-year Contract)
+Senior Engineer (PI) /Engineer (PI), Model Optimization
+Senior / Full Stack Developer (FI / Vendor)
+IT ADMIN
+DevOps Engineer
+System Analyst/ Analyst Programmer (5 days work)
+Regional Digital/ Data Analyst
+Senior/ Analyst Programmer – e-Channel Application (6-month Contract)
+Assistant Engineer - Data Engineering Team
+Data Analytics, Wholesale Banking
+Data Consultant
+Software Engineer Trainee
+Senior Analyst or Associate Manager- Strategic Partnership (Bangkok based, relocation provided)
+大灣區 財富管理策劃師 Financial Advisor
+Linux Engineer
+Manager, Market Risk Management
+System Engineer
+Analyst Programmer I (Cyber Info Security) (Ref: 230000DM)
+Retail Data Analyst Office / Assistant Officer (Must know VLOOKUP & Pivot Table)
+Programmer
+System Analyst (Data Management, Java, JavaScript)
+EXPERIENCED IT PROFESSIONALS
+Assistant Project Manager (Data Science)
+Analyst for a Multi-Family Office Startup
+Mainframe COBOL System Analyst/Analyst Programmer/Programmer - Bank
+Java Analyst Programmer (25-40k | Solution provider)
+Full Stack Developer
+Clinical Support Specialist
+Assistant Manager, Data Analytics (Bank)
+CRM Analyst (Data Modelling)
+Data Engineer
+Web/ Mobile Analyst Programmer
+Design Verification Engineer
+DevOps Architect - Up to 65K x 13 months + Bonus
+Systems Engineer
+Senior Lead Engineer/ Lead Engineer /Senior Engineer/ Engineer/ Engineering Associate_ Application
+Technical Analyst (Cloud Engineering)
+Developer / Senior Developer
+Python/ Java/C# Programmer Junior (5 days work)
+IT Software Architect / Application Development Manager
+IT Application Support, Global Well-known Finance Services, 30-60K
+Data Processing Executive
+Manager / AM Data Governance & Risk Management (50-55K) (Annual: 750K) (Listed Company)
+Programmer
+CRM Analyst (Luxury Retail Group)
+Senior Officer – Customer Innovation (Group Data Analytics Role)
+AML Manager – Model Validation
+Full Stack Software Engineer Bootcamp Instructor (1 Full time + 1 Part time)
+Analyst Programmer ( React / Node / C++/ Java Spring Boot | Fintech ) UP to 45 K
+Senior Advertising Sales Manager (東方傳媒機構)
+(Leading Domestic Bank) Assistant Business Analytics Manager
+System Support (Up to 50k) Linux, container platform, attractive package
+Analyst Programmer / Programmer (.NET)
+Senior DevOps Engineer
+Senior Application Programmer (SAP), VB.NET, C# (5 days work) / Programmer
+Big Data Intern
+System Engineer(Technology Development)
+Analyst Programmer - Top Financial Institution, HK$25K-HK$45K/Month
+Data Analytics Solution Manager
+Manager- Data Infrastructure Engineer/ Data analyst/ Middleware/ Visualisation/ Data Platform
+Market Risk Manager
+Senior Backend Engineer (PHP) | Market Media Lead (2 year experience +, 35K up )
+Analyst Programmer / Programmer
+Full Stack Engineer
+Assistant Business Analytics Manager (Banking, Tableau)
+D365 Software Engineer - Global Retail Company - HKD$40k-45k + bonus
+Data Analyst (Digital solutions for Watsons eCommerce)
+Quality Assurance Engineer
+Senior Analyst Programmer – FinTech Application (Ref: JD-FIN-SAP)
+System Analyst / Analyst Programmer (DevOps) - KL
+Senior Embedded Engineer (C/ C++)
+Analyst (Temporary Appointment)
+System Specialist (Developer)
+Documentation Specialist
+Senior Analyst Programmer
+Webmaster
+Senior Cloud / DevOps Engineer - Global Technology Solutions - Hong Kong
+IT Technician (holding the functional title of Software Developer)
+Developer (Software / Application Development)
+Analyst Programmer / Senior Analyst Programmer up to 45k
+IT Specialist (Application Release Management)
+Programmer(202203)
+Research Intern
+Chief Analyst/ Analyst, FI Credit Management
+Technical Consultant/ 技術顧問 (材料供應商- 衛浴/排水系統)
+Engineer / Assistant Engineer (Hong Kong Gold Coast)
+Index Review Manager
+DevSecOps / DevOps Technical Lead
+Principal/ Senior Manager – Data Science | Perm
+Automation Test Engineer (Banking, 6-month Contract) (Ref:GTS_JHK)
+Data Architect (up to 45k+, large scale financial projects, bonus!!!)
+Manager / Assistant Manager– Specialist Advisory Services (Valuation)
+Technical Lead
+Technical Lead
+Data Engineer | Up to 40k + bonuses | Western culture |
+Senior/ Software Analyst (Finance and HR system)
+Go Lang Senior Engineer
+Java Programmer/Developer/Senior Programmer (Digital Solutions)
+Programmer (Fresh graduates are welcome)
+Online Data Analyst
+Software Engineer (React) | 30-50K+
+Assistant Membership Analysis Manager
+Senior Manager, Data Governance & Compliance, STP Platform
+Robotics Software Engineer
+Senior Officer, Credit MIS
+Business Intelligence Executive (Data Analysis)
+KDB/Q Developer
+Senior Backend Developer / Backend Developer
+Senior Solution Architect (BICC Data & Analytics)
+DevOps Manager – AWS Cloud
+Analyst Programmer / Programmer
+Analyst Programmer/ Developer (18K-50K) (Fresh Grad Welcome)
+Analyst Programmer
+Technology Leaders of Tomorrow Programme 2023
+Analyst Programmer/ System Analyst (Banking)
+Software Engineer / Senior Software Engineer - C/C++ and Embedded system - Wireless
+System Engineer (Mutiple vacancies , 5 days work, in-house)
+Assistant Quantitative Research Manager
+軟件工程師
+Cloud Application Support Engineer (Fresh Graduate welcome)
+Software Engineer
+Programmer/Analyst Programmer/System Analyst (Multiple headcount) | In-house | Urgent
+Data Engineer
+Data Analyst
+System Analyst / Analyst Programmer / Backend Developer (Python / PHP Laravel & Node.js)
+System Analyst  (職位編號：SA-HO-IT)
+Fullstack .Net Developer
+Data Talents (Architect, Engineers, Governance/ Management, Analytics) – TB-PB scale Opportunities
+Programmer / Analyst Programmer / System Analyst (Welcome candidates from different background)
+Development Lead - Pension
+PowerPlatform Data Analytics Consultant
+Tester(Internel)
+Developer - Senior Programmer/ System Analyst (Python)
+Senior Customer Engineer - Google Cloud Platform
+Data Engineer - Banking/ Insurance
+Java  Engineer / Developer - IT
+Application Developer (Public Institutional)
+Java/C# Programmer Junior (5 days work)
+Software Engineer
+Operations Specialist (Data Enrichment)
+Part-time Research Assistant (R7042) (Ref: 23000GC)
+Senior Software Engineer
+Software Engineer (Station Dongguan)
+Full Stack Developer
+Unity Game Developer
+Senior Consultant / Consultant - Video Analytic Technology 25 – 45k
+Firmware Engineer
+Quality Assurance Engineer
+Scrum Master / Software Process Engineer
+Senior Web/Mobile Developer | Fintech
+Programmer / Analyst Programmer
+Analyst Programmer / Programmer
+MIS Officer, Retail Business
+Infrastructure Engineer
+Junior Web / Mobile App Developer
+Business Analytics Manager
+Assistant AI Specialist (CRN0/202303/EW/RK)
+(Finance Team) Data Analytics & Automation Manager, Securities
+(Assistant) Data Science Manager
+Software Engineer (3D Vision) (Ref CLR2023-005)
+Java Programmer
+Consultant, Intelligent Automation and Systems
+System Analyst (RPA)
+Senior Programmer – Web Application (Java) (Ref: JD-WEB-SP)
+CRM Analyst
+VP Market and Credit Risk - International Securities Firm
+Senior Programmer (Ref: JD-SP AS400)
+Analyst Programmer (PHP, SQL, Python, Tsim Sha Tsui, over $40K)
+Senior Lead Engineer/ Lead Engineer, ASIC Design
+Systems Analyst / Analyst Programmer – Web Solutions Team
+Revenue Analyst (New headcount, HKD30k-38k)
+Actuarial Intern
+Financial Analyst/Data Analyst/Software Engineer/Hardware Engineer(Top Urgent)
+Java Developer ( Banking Projects )
+DATABASE ADMINISTRATOR
+IT Analyst (Application Development)
+Software Engineer / Analyst Programmer / Web Application Developer
+Analyst, Risk Management
+Java Developer (Senior System Engineer)
+Consulting-Financial Services,Financial Risk Management-Senior Manager-Hong Kong
+Systems Analyst - Application Specialist
+Technical lead / Architect / System Analyst - Data Warehouse x 6 Openings
+BIM Modeller (Ref.: BM/23/242)
+Senior Software Engineer/System Analyst
+System Administrator/ Senior System Administrator (Japanese MNC/ AL 12～/ 5-day work)
+IT Auditor
+Research Assistant – Department of Mathematics, Statistics and Insurance
+(Senior) System Administrator
+FX Trading Platform Account Manager
+Data Migration Specialist
+Full Stack Engineer
+Technical Delivery Lead, Leading Insurance company
+Junior AI Specialist (Taiwan)
+Product Manager / Data Manager (Business intelligence services) - KL
+Risk Management Manager – Credit Risk (Ref: RRM-CR-KF-JDB-NCB)
+Algorithmic Trading Development Assistant / Officer
+Senior Software Engineer – AI  (Ref. No.: HKRITA-0311-01)
+Java Developer, large MNC
+Prime & Delta One Software Engineer (Java) - Leading Investment Bank
+Senior Engineer, Data Network Design
+Power BI Developer
+Fullstack Developer (Only Frontend/ Backend welcome) (In-house | No OT) (Up to 50k)
+Research Analyst (Regional, customer survey)
+Solutions Architect
+Graduate Trainee Program 2023
+Lead Engineer, Machine Learning / NLP
+Assistant DevOps Manager
+Software Developer (Fronted / Backend) (Ref CLR2023-001)
+Trading System Analyst / Application Support Engineer
+Full-Stack Developer (Bank) **Welcome Fresh Graduate**
+Software Developer / Programmer ( Frontend / Backend / Full Stack )
+DATA ANALYST
+Software Engineer / Senior Software Engineer
+Data Analyst - Power BI (Fresh Graduate considered)
+Analyst Programmer
+Cloud Engineer - New Data Analytics Platform -Visa sponsorship provided
+Web Developer
+Analyst Programmer / Programmer
+Senior Claims Analyst / Claims Analyst, Motor
+Research Assistant / Postdoc Fellow (several posts)
+Lead Developer
+Senior Manager, Platform Planning and Data Analytics
+AVP/Senior Associate/Associate, Specialist, Contact Centre (Data Analytics & project management)
+Unix/Linux System Administrator (IT)
+Devops Engineer / Cloud Developer (python/php/JS, perm role, 25k-35k)
+AVP, System Development (Mainframe)
+DevOps Architect
+Engineering Manager - FinTech Platform
+Fullstack Software Engineer
+Full Stack Developer
+System Engineer
+JAVA Developer and System Specialist (Mobile/Internet) - BANK
+Application Developer – Microsoft Platform
+Project Manager – Artificial Intelligence
+Application Support Engineer
+System Specialist - Tung Chung
+Assistant Manager, Data Architecture
+Programmer (Java / ASP.NET)
+Technology - Data Conversion Lead
+Java Developer / Analyst Programmer
+Business Development Officer
+Manager, Business & Data Analysis - ITSD - 297
+Senior Devops Engineer, in-house permanent role with double pay, up to $65K
+Senior Manager, Data Transformation & Governance
+Assistant Vice President - Business Intelligence
+教學助理(STEM)
+Analyst Programmer / Systems Analyst
+Analyst Programmer (FMS/ Workflow / RPA)
+Analyst Programmer / Programmer (Full Stack Developer)
+Senior System Specialist
+Senior Software Engineer (Hong Kong Based)
+System Developer (Listed Company, 5-day workweek)
+Analyst Programmer (Backend)
+Assistant System Engineer (14:30 - 23:00)
+Research Engineer (IT Infrastructure)
+Business Intelligence Analyst
+Analyst / Senior Consultant (Cyber Intelligence Center) - Cyber - Hong Kong
+Deputy Head, Intelligent Manufacturing and Innovation
+(Senior) Software Engineer - Cash Satellite Systems - IT - Associate (R000295)
+Electronic / Software Engineer
+AS400 Developer - Leading Insurance Group
+手機遊戲測試工程師/ Game Test Engineer
+Analyst Programmer
+Analyst, Specialist, Data/Business Analyst, Consumer Banking
+Business Analyst and Insights Manager
+Senior Business Intelligence Analyst - Finance - FCS - Hong Kong
+Deputy Head - AI & Robotics
+Researcher, Embedded Software Design
+Senior Manager (Basel Model Risk Specialist) - Intermediaries Supervision, Intermediaries
+Systems Analyst (Ref: 23000GU)
+Data Analyst - Banking
+軟件工程研究員-華潤研究院
+Data Scientist
+Analyst Programmer - Java / .NET (2 years contract) - Insurance
+Data Analyst
+DATA ENGINEER (DATA & ANALYTICS)
+System Analyst (RPA Enterprise Services)
+Dealer – Money Market /FX (Ref: JD-DEA)
+Manager, Information Technology (Data Management) - Financial Institutions
+Data Analyst
+Chief Engineer / Chief Architect (ASIC Design)
+(For Cantonese Speaker) Senior System Analyst
+C#/.Net Engineer - System Analyst - Top-tier Insurance Firm
+Project Lead, Network & Data Center Migration
+(Senior) Mobile Application Developer - eCom platforms, Asia Market
+Software Developer (Robotics)
+Data Analyst / Assistant Manager, Information Technology
+System Analyst - Institutional Business
+Data Platform Lead [Managerial Level]
+Technical Lead
+Senior Application Developer | Perm | Up to 40k |
+Deputy / Credit Risk Manager (Analytics)
+Risk Control Officer
+Cloud Engineer | Market Media Lead (2 year experience +, 35K up )
+Software Developer / Programmer (Digital Transformation)
+Software Engineer (Robotics Machinery)
+Programmer/Senior Programmer (Up to 35k+) Java house, e-commerce/government projects
+CLOUD ENGINEER
+Manager, Liquidity Risk
+System Engineer (DevOps) - Microservices
+AI Programmer (Machine Learning Development)
+Data Engineering and Analytics Manager
+Linux System Engineer - Top Financial Institution, HK$40K-HK$60K/Month
+Analyst Programmer
+Senior Data Projects Management and Delivery Analyst
+(Senior)Engineer / (Senior)Application Developer
+Principal System Engineer-Mainframe CA1/CA7/Endevor-Inhouse Financial Services-60-75K+4-6 mths Bonus
+Front End Developer
+Senior Backend Engineer (New Media Business)
+Programmer
+.NET Developer | Lab & Data Set service provider
+IT Support & Reporting Supervisor
+System Analyst - Healthcare IT Solutions
+Senior / Analyst Programmer (Oracle EBS), In House - Up to 45K, Double Pay + Bonus
+Senior Manager – Specialist Advisory Services (Valuation)
+Financial Analyst X2/Software Engineer/Hardware Engineer(Top Urgent)
+Contract Data Analyst / Senior Data Analyst
+Senior Programmer / Programmer (Back-End)
+Senior Engineer/ Engineer/ Engineering Associate, Software Development
+CTO - Web3 Startup (Offering relocation to Dubai)
+Senior Consultant, Data Strategy and Solutions (CRM Data)
+System Specialist
+Analyst Programmer
+Algorithm Engineer (Computer Vision) (Ref CLR2023-004)
+C#/.Net Engineer - System Analyst - Top-tier Insurance Firm
+Software Engineer (JavaScript, VUE.js, Laravel, Node.js, php, Tomcat)
+Analyst Programmer/ System Analyst (50K-70K)
+Analyst Programmer
+Scientist
+Assistant Data Analytics and CRM Manager
+2023 IT Summer Internship
+Senior Consultant, Intelligent Automation and Systems
+Data Assurance Manager (In-house, Kwun Tong, 5 days work)
+Analyst Programmer
+MLOps - Machine Learning / Data Scientist
+Lead Engineer/Senior Engineer/Engineer/ Engineer Associate, System Development
+System Architect - PEGA (up to 80000 a month)
+Senior Engineer/ Engineer/ Engineering Associate (PI), AI and Machine Learning
+Fullstack Developer (Node.js) - multiple headcount
+STEAM Class Instructor- Robotics
+Analyst, Risk Management (up to 35-45k)
+Trading Floor Application Support
+Assistant Manager, Data Strategy
+System Analyst/ Web Analyst
+Senior Software Engineer / Software Engineer / Senior System Engineer / System Engineer
+Chief Engineer / Chief Architect (ASIC Design)
+Technical Officer, AI/ Software/ Electronic Design
+System Analyst (Digital Workforce & Contact Center)
+Pre-Sales Engineer
+Business/ Data Analyst (Japanese-speaking)
+Chief Engineering Manager
+Junior Systems Engineer
+Data Architect - Large Firm
+Technical Analyst - Software Development (Java & Cloud Native)
+Research Assistant/Specialist/Analyst (Media Digital Transformation)
+Cloud Data Engineer
+System Analyst/Analyst Programmer
+Programmer / Analyst Programmer
+System Engineer (Ref: JDB/GETS/SE)
+Senior Programmer (5 days work)
+Data Analyst (Banking, Fresh graduate will be considered)
+Backend Developer (Spring Boot | all levels)
+Full Stack Analyst Programmer | Big Data
+Talents Wanted!  ** IT Job Opportunities**
+Analyst, Business Analysis
+Assistant Manager – Risk Management (Ref: JD-AMRM)
+IT Development Specialist
+Data Analyst
+Research Assistant (Robotics/Software/Algorithm) (CR0004)
+(Senior) Engineer / Analyst Programmer (C++ OR Embedded C programming) - KL
+Programmer (Junior/Fresh Grad Welcome to Apply)
+URGENT - (Senior) Engineer / (Senior) Application Developer
+Systems Analyst (Application Support)
+Data Governance Manager - Insurance (Perm)
+**Up to 42K** Junior Programmer/ Programmer
+Senior Officer/Assistant Manager, Credit Risk Analytics
+Contract Data Analyst
+Analyst Programmer / Programmer
+Senior Engineer (PI) /Engineer (PI), Computer Vision
+Engineer (IP Backbone Network)
+Petrochemical Trader
+Application Developer(s) – (Financial / Trading System) (Ref011)
+Excel Officer - Data
+Mobile Application Specialist
+Senior Systems Analyst
+Programmer / Analyst Programmer (JAVA)
+Senior System Engineer (Linux, government projects, over $60K)
+Business Data Analyst
+Postdoctoral Fellow – Department of Supply Chain and Information Management
+Solution Architect
+DevOps Engineer | Fintech MNC | 30K+
+Developer Analyst/Application specialist (run the bank - mainframe)
+Software Engineer/System Analyst (Java/Spring Boot/Microservices/Large-scale/Bank)
+Solution Lead (BICC Technical Data Model & App DBA)
+Analyst Programmer / Programmer
+Senior Firmware R&D Engineer
+Web Developer / Senior Web Developer
+System Engineer
+Officer, Business and Big Data Management (E-Banking)
+Front-end Programmer/ Developer
+Senior/ Analyst Programmer (.NET)
+System Analyst/SSA - Top-tier bank with Attractive Bonus
+Backend Developer / Technical Developer / Analyst Programmer (in-house / No OT sulture)
+Software Engineer (Backend, C++)
+Software Engineer (Java / Node.js, Backend)
+Placement Trainee (Risk Management Department)
+Customer Service Engineer
+Management Reporting & Analytics Officer
+Programmer in the Department of Computer Science (Appointment for 12 months) [Ref. A/R/1231/03]
+Assistant Manager, Software Engineering
+Senior Programmer (Senior Application Developer)
+Cloud Engineer / DevOps Engineer (AWS/ Microservice/ React.js) Up to 60K
+Analyst Programmer / Full Stack Development / Software Engineer
+Software Engineer- Greenfield Project (Research & Development)
+Software Engineer (Android / Kotlin) - Senior/Associate
+Junior Programmer (Fresh Graduate also welcome)
+信息科技部 軟件開發及運維崗
+SR. ELECTRONIC ENGINEER (5-DAY WORK)
+System Analyst - Pension
+Software Quality Engineer / Associate Software Quality Engineer
+Software Engineer / Web Developer
+Software Engineering Manager (5 Days Work)
+Wireless Networks and Services - Associate Principal Engineer/Lead Engineer/Engineering Associate
+Market Surveillance Manager
+Operations Specialist (Freelancer)
+Privacy Specialist (Work Opportunity in Canada)
+System Analyst - PHP/ JAVA/ HTML (35-45K)
+Data Scientist (IT)
+Operation Analyst (Fresh Graduate is welcomed)
+Risk Assistant Manager (Listed Chinese securities)
+System Developer (Kwun Tong)
+Manager - Commercial Analytics and Business Intelligence
+Senior Analyst Programmer (Java & Backend-oriented)
+Software Delivery CoE Solution Architect - Asia Insurance Group
+Multimedia Developer/ Multimedia Programmer
+Senior Software Engineer/ Project Lead (Auto-ID & IoT)
+Lead DevOps Engineer
+Technical Consultant
+CRM Analyst (Data Modelling)
+Backend Developer
+System Engineer (VCO252/J02)
+Web Application Developer
+Programmer / Analyst Programmer
+Director / Senior Manager, Data Architect & Management
+Specialist, System Analysis (System Analyst)
+Assistant Scientific Officer (Temporary Appointment)
+AI Developer
+Dynamics 365 Developer
+手機維修員
+Data Analyst - Regional Bank
+Junior/ Senior Full Stack Developer (Fresh graduate/ IANG is welcome)
+Software Engineer
+Senior / Intermediate Backend Developer
+Analyst Programmer
+Senior Analyst, Market Risk
+Summer Intern - Optics
+Programmer / Analyst Programmer
+Data Analyst
+Programmer
+Azure Infrastructure and Operation Engineer (Contract based; attractive package)
+System Analyst / Senior Analyst Programmer MNC - $40K - $60K + Bonus(2months up)
+Character Animator
+Java System Analyst (In-house project; Senior Analyst Programmer welcome) (Perm. Up to 60k + bonus)
+Research Engineer/ Data Analyst (Full time / Intern)
+System Engineer
+System Administrator (In-House)
+Officer, Business and Big Data Management (Internet Finance Department)
+System Analyst / Programmer (C/C++/Linux)
+Senior Data Engineer - Data Platform Solutions
+Senior Research Assistant (AI Specialist) (Full-time / Part-time) – Department of Computing
+Data Engineer || Hong Kong
+Software Developer (React/ Angular/ Node.Js , 25-30K)
+Head of Credit Risk Analytics
+Assistant Business Analytics Manager - Banking - Tableau
+Analyst Programmer
+Manager, Fraud Analytics (CTB)
+PHP System Analyst/Senior Analyst Programmer (Digital Solutions)
+Senior/ Associate Developer - Automation Development
+Data Engineer - Business Intelligence [12-month Contract]
+ETL Specialist / Data Analyst
+Senior Data Engineer | Multimedia
+Data Analyst
+Software Engineer/Android Developer
+Analyst Programmer/System Analyst (Oracle/SQL/Unix, Banking) (Ref.GTS_ETL_BI)
+Data Centre Operations Engineer
+Senior Site Reliability Engineer (SRE) - Associate - Compute & Storage - IT (IRC28720)
+Technical Lead - Finance Solution Delivery
+Senior Software Engineer/ Software Engineer (Welcome Fresh graduates)
+Assistant Engineer, AI & Robotics
+Revenue Manager / Analyst
+Programmer
+Technical Manager (Web)
+Engineer / Senior Engineer (Data)
+Senior System Administrator – MS AZURE Cloud Services /Global MNC/Competitive package/WFH
+Senior System Analyst, Node.js, Insurance (AI solution)
+Senior Data Engineer (Ref: OS00459)
+Frontend Developer / Software Engineer / Researcher (2D/3D WebGL)
+Application Architect (Java), Adobe cloud Architect, Salesforce Consultant, SA (Java)
+Technical Services
+Derivatives Trader / Quant across asset classes
+Senior Data Analyst
+System Administrator
+Credit Risk Analytic Manager
+Senior System Specialist - HK$40K
+Credit Analytics Manager (SAS) (HK$35K - $55K) (Ref. No.: 26178)
+Analyst Programmer / Programmer
+Programmer (IT)
+RPA Consultant/Trainee (Robotic Process Automation)
+Execution Trader
+Risk Manager (风控总监，Listed Chinese securities)
+PowerPlatform Data Analytics Consultant
+Analyst Programmer / Systems Analyst
+Programmer
+Assistant Vice President, Business Analytics & Data Governance
+Web Developer / Senior Developer
+Back-End Developer
+Analyst Programmer (4 Days Work Per Week + Good Salary & Staff Benefits)
+Analyst Programmer / Programmer
+Systems Analyst (Ref: 23000EZ)
+(Junior) DevOps Engineer
+Analyst Developer (Windows Application Development)
+Full Stack Developer + Azure
+Software Developer
+Senior Analyst Programmer / Analyst Programmer (5-day Work)
+RPA System Analyst
+Analyst Programmer or Programmer
+System Infrastructure Support Specialist
+DevOps Engineer(12 Months Contract, 41K)
+Database Operation/System Engineer
+Senior Lead Engineer/ Lead Engineer, Computer Vision
+Media intelligence analyst
+Analyst Programmer (GETS Solution Development)
+Senior Engineer/Engineer, Software Application Development
+Senior Developer / Senior Solution Analyst - Perm / 5 days work / 30K - 49K !
+Cloud System Engineer
+Java Systems Analyst / Senior Systems Analyst
+Group Customer Data Analytics Manager
+Programmer /Analyst Programmer
+Software Automation QA Engineer
+Cloud Engineer (Microsoft 365 Project Delivery)
+Researcher / Senior Researcher (Infotainment)
+Analyst Programmer (Web)
+手機質檢員
+Systems Engineer / Senior Systems Engineer - Technology and Application Support - GTS - Hong Kong
+Associate Software Architect
+Senior Lead Engineer / Lead Engineer, Computer Vision
+Senior Engineer/Engineer, Edge AI System and Software Development
+Application Developer / Programmer
+Financial Analyst - Data Analysis / Reports Preparation, Finance Department (MJ001811)
+(Senior) Developer - Web & App (e-Commerce)
+Senior Analyst Programmer, Cyber Security
+Data Analyst
+Data Analyst (at the rank/grade of Technical Officer/Research Assistant I/II)
+Senior Automation Developer
+Tech Talent - Technology Associate
+Assistant Engineer, Innovative Solutions
+Power BI Expert
+Data Scientist - Insurance - 40k - Contract
+Programmer ($20-22) X 3, Fresh Graduate Welcome (Ref:026)
+ANALYST PROGRAMMER/PROGRAMMER (C#,ASP.NET,MS-SQL Server,JavaScript,Dart, Flutter)
+Senior Full-stack Developer (NodeJS) – Financial institution, up to 80k (Ref_3512)
+Deputy Director/Senior Manager/Chief/Principal Engineer, Smart Connectivity
+Technical Lead
+Technology Analyst
+程式分析員 Analyst Programmer  (編號: CA/AP/20211210-27)
+Ship Operator (Bulk carriers)
+Analyst Programmer/ Systems Analyst, Enterprise Data warehouse (Information Technology Department)
+Senior Project Manager - Artificial Intelligence | up to 65k | Perm | Excellent benefits
+Senior Software Engineer - Backend (Typescript + NodeJS)
+Junior Programmer (Welcome Fresh Graduate)
+Associate Principal Engineer/Lead Engineer/Engineer, Smart Connectivity
+Analyst Programmer (Java / .Net, multiple vacancies)
+Assistant Vice President / Manager, Market Risk (Banking Book)
+Senior System Engineer, Linux
+Model-Based System Software - Associate Principal Engineer
+Software Developer / Full Stack Developer/ Programmer (5-day Work)
+Senior Software Engineer - C# / .NET (Web)
+System Analyst (Data), System Analyst (Java), Analyst Programmer (Java)
+Programmers (Ref: IT/02/005)
+C++ Developer ( Fintech | Global Company )
+Analyst Programmer I (Ref: 22000090)
+R&D Engineer
+Senior System Specialist – Perm up to 38k (In-house)
+Assistant Vice President - Data Product Development - Emerging Business (R000640)
+Bank Application Support - Fresh graduate welcome
+Delivery Engineer (Waste Sorting Robots - SOTA Robotics - Ref. 001)
+Analyst Programmer (4 Days Work Per Week & Excellent Staff Benefits)
+Junior Systems Engineer
+Senior Cybersecurity Officer (Application Security)
+3D Vision Algorithm Engineer (Computer Vision) (Ref CLR2023-003)
+Programmer/Analyst Programmer – Banking Projects
+Senior Manager, Wholesale Credit Risk Analytics (HK$55K - $90K) (Ref. No.: 26174)
+Manager - FX Trader
+Data Scientist [Multiple Gradings up to Lead]
+Data Analyst/Business Intelligence Analyst - Global Luxury/Retail MNC
+Test Engineer Associate - Testing COE LME Testing - IT (R000646)
+Programmer (for Fresh Graduates)
+Manager - Risk Management
+Tech Lead
+IT Trainees (Fresh Graduate welcome)
+System Analyst / Analyst Programmer
+Assistant HK Index Manager
+Senior Data Analyst (Business Intelligence) - Insurance Company
+Senior Dealer(Head of Southeast Asia)
+Assistant System Engineer / System Engineer
+Application Developer (Insurance firm / Up to 50k / Stable IT team)
+Analyst, Risk Management (up to 35-45k)
+Project Assistant (5 days work week/Fresh Grad Welcome/$16-18K)
+Algorithm Engineer (Autonomous Driving) (Ref CLR2023-006)
+Software Engineer
+IBM Team - (Senior) Analyst Programmer / Developer - 8 openings
+Engineer, Backend - Mox - (2300004790)
+Manager / Assistant Manager, Business & Risk Analytics, Retail Credit Approval & Administration
+Full Stack System Analyst - Global Leading Insurer - Up to 60K
+Programmer (Web)
+Technical Business Analyst (Python/Power BI)
+Programmer / Senior Programmer up to 30k (FG welcome)
+Python Backend Engineers (all levels) - Mox - (2200030824)
+Manager, Fraud Analytics (RTB)
+Assistant / Analyst Programmer
+Junior Programmer / Programmer
+DevOps Engineering Manager
+Analyst Programmer (4 Days work per week)
+Senior DEVOPS Engineer (about 46000 a month)
+Senior Commercial Data Analyst
+伺服器工程師/Server Engineer (Windows/Linux Server)
+Solution Analyst - Software Development Team
+系統架構師
+Post-doctoral Fellow (Job ID: 8512)
+Senior Lead Engineer / Lead Engineer / Senior Engineer / Engineer, Image Processing
+System Engineer (Mutiple Vacancies , 5 days work, in-house)
+Consultant Trainee - Data Solution (Fresh Graduates Welcome)
+Support Analyst (SQL experience)
+Principal Engineer / Associate Principal Engineer / Senior Lead Engineer, Software Development
+AI Specialist/System Analyst - Top Tier Insurance Company
+AI Specialist/System Analyst - Top Tier Insurance Company
+Junior .NET Programmer / .NET Programmer
+Software Engineer
+Technical Support Specialist
+Data Engineer - Conglomerate
+Tech Lead, Insurance, (Web/Mobile), 65k
+Analyst Programmer (5 days)
+Software Quality Assurance Engineer
+AVP, Business Intelligence - Banking
+Software Engineer (Web Development)
+Programmer
+Programmer / Analyst Programmer
+Product Manager/Senior Product Manager(Cloud Network & Big Data）
+Programmer / Analyst Programmer ((Java, Cloud)
+IT System Engineer (Linux)
+Software Engineer (HTML)
+Graduate Program
+Data Analytics Manager (65K - 75K + Bonus)
+Analyst Programmer
+Airport Project Assistant/ Executive
+Project Coordinator / Project Manager (in IoT and AI)
+Fullstack Developer (Only Frontend/ Backend welcome) (In-house | No OT) (Up to 50k)
+Java Programmer/ Analyst Programmer/ Backend Developer (Perm. Up to 45k + bonus)
+QA Engineer (Automation testing / Fintech company)
+Automotive Test Engineer
+Senior Analyst Programmer / System Analyst / Senior Software Engineer - Fullstack
+QA Engineer (Up to 50k) FSI industry project, Automation, Selenium, attractive package
+System Analyst (Billing & Reporting)
+Programmer ( Java/ JavaScript / C# / Python /PHP etc.) (Fresh grad welcome)(20K -45K)
+Senior Analyst Programmer, Information Technology
+Analyst Programmer
+System Analyst (GETS Solution Development)
+IT System Specialist
+AI Developer / Data Scientist (AI and IoT | Junior to Senior)
+I.T. SUPPORT OFFICER / PROGRAMMER / ANALYST PROGRAMMER / SYSTEM ANALYST / I.T. MANAGER
+Web Application Developer
+Senior Engineer (PI) /Engineer (PI), Software Development for Computer Vision
+Full Stack Web Developer / Analyst Programmer (Node.js / React.js / PHP)
+AVP, Business Analytics - Retail Banking
+Programmer / Analyst Programmer ( JAVA / C# )
+Senior Lead Engineer/Lead Engineer, Intelligent IoT System
+Markets Systems Software Engineer - AVP/VP - IT (IRC20223)
+Senior Engineer (PI) / Engineer (PI), Networking Software (5G)
+Programmer (5 days work)
+C# .Net/ React Node Analyst Programmer/ System Analyst/ Team Lead (Perm; Up to 55k + bonus)
+Frontend Developer / Programmer / Engineer / whateverYouCallYourself
+Front End Developer - React / Vue (Finance Industry)
+Assistant Manager, Software Development
+Software Engineer
+Python Developer
+Research Associate (Ref: 23000EC)
+Software Developer (IoT)
+Data Engineer  - New Media Division
+Fintech programmer
+Technology - Associate Software Engineer (6 - 12 months internship/placement)
+Senior Risk Management Manager - Market Risk (Ref: SRMM-MR-KF-CT-NCB)
+Senior Analyst Programmer (VCO246/J03)
+System Administrator
+Data Integration Engineer (Data & AI) 25 – 45k
+Software Engineer /Senior Software Engineer
+System Analyst (Python/ .NET)
+Senior Engineer (PI) / Engineer (PI), AI Software Development
+System Engineer (Back End)
+Senior Programmer (Public Sector, Web application)
+System Analyst / Software Engineer
+Product Development Analyst, Aftersales
+Principal Software Engineer - AVP - Derivatives Systems - IT (IRC27740)
+Data Analytics Solution Manager
+Senior Engineer / Engineer
+Web Developers / Senior Web Developers (NodeJS, Drupal, PHP, Frontend Frameworks)
+Senior / Data Analyst up to 50k
+Junior Flutter Developer
+Analyst Programmer
+Analyst Programmer / Senior Analyst Programmer (Flutter)
+Postdoctoral Researcher, AI/ Software/ Electronic Design
+Software Developer
+運維工程師 (手機遊戲)/ DevOps Engineer (Mobile games)
+Seniro Software Engineer | React, Node.js (45K - 55K + Bonus)
+Analyst Programmer
+Programmer (React JS, in-house, perm role, 5 days work)
+Analyst Programmer / Senior Analyst Programmer up to 45k
+Senior Marketing Data Analyst
+Solution Consultant - Data Centre Virtualization & Data Security Solutions
+Mechatronic Engineer / Robotics Engineer
+Senior Lead Engineer / Lead Engineer, Software
+Back-end Developer (PHP / Laravel)
+Risk Management, Associate/SA/VP
+Assistant Project Manager (Data Science and Innovation)
+Engineer / Assistant Engineer (Hong Kong Gold Coast)
+Senior Engineer (PI) /Engineer (PI), Computer Vision
+Index Review Manager
+Software Engineer (Full Stack)
+Vice President of Engineering
+Huawei Hong Kong Research Center 2023 Graduate Program– Researcher/Research Intern
+Programmer (Fresh Graduate)
+Associate Principal Engineer/Lead Engineer/Engineer, Smart Electronics
+Web Master / Web Developer
+Assistant Cloud Engineer
+Technical Analyst - Office Intelligence Solution / Infrastructure
+Technical Manager, Continuous Delivery - ITWS - 295
+System Engineer (Multiple Openings) - up to 45k Perm (Ref_3352)
+Senior Analyst Programmer / System Analyst
+Unity Developer (Up to 30k)
+Systems Analyst / Senior Analyst Programmer / Analyst Programmer - Java
+Assistant Manager - CRM & Data Analytics (Membership Strategy)
+Senior Engineer (PI) /Engineer (PI), Machine Vision Software
+Frontend Developer
+Business Analyst / Project Manager (Java; Python; Finance Software Firm ; 50-60K)
+Software Engineer / Senior Software Engineer ( Multinational ) - C/C++ and Embedded system
+FREELANCE FITTING MODELS - MALE & FEMALE
+Analyst Programmer / Assistant System Analyst
+(Senior) Credit Risk Manager (Credit Model Management)
+Associate Principal Engineer / Senior Lead Engineer / Lead Engineer, Vision System
+Analyst Programmer / Programmer (Web Application) (5-day work)
+Web Application Developer (Vue.js, Node.js) (Urgent)
+Associate Technical Consultant
+Systems Analyst (24-month contract)
+Android Developer
+BIM Modeller (Ref.: BM/23/222)
+Assistant Data Analyst / Associate Data Analyst
+Analyst Programmer (Network Management) - Various Posts (Ref: AP/HOITD2303004/I2311)
+Analyst Programmer (Financial and CRM System)
+Tech Lead [ Newest Digital Project, Insurance ]
+Systems Engineer / Consultant (BI)
+Data Analyst - Python (Consumer Banking)
+Analyst Programmer/ Senior Analyst Programmer (SAP) (New Position)
+Programmer
+Online Coding Trainer conducting live or VOD Classes
+Software QA Engineer (Manual/ Automation), Perm, Securities Firm; Attractive Bonus
+Senior Manager, Business Intelligent
+Software Test Engineer (Quality Assurance/Junior System Analyst) (TR039)
+Azure DevOps Engineer (Monthly salary 50k+) (Ref_3456)
+Senior Technical Manager, Functional Architect
+Senior Engineer / Principal Engineer (Infrastructure Smart Solutions)
+Senior Analyst Programmer / Analyst Programmer
+Software Engineer
+5G/6G Protocol and Application Software Design - Principal Engineer / Lead Engineer / Engineer
+JAVA System Specialist (Mobile/Internet) - MNC BANK
+Senior Systems Analyst (Securities Trading)
+Senior Lead Engineer / Lead Engineer / Senior Engineer / Engineer, Software Optimization
+Analyst Programmer / Programmer
+System Specialist
+Senior Market Risk Officer (Foreign Bank, 2-4 years of exp)
+Risk Manager (风控总监，Listed Chinese securities)
+PowerPlatform Data Analytics Consultant
+Senior Associate / Associate – Specialist Advisory Services (Valuation)
+DevOps Engineer - 45k MAX  (Digital Platforms)
+System Analyst (RPA Enterprise Services)
+Software Engineer (C# / Java) (3 year experience) (30- 40K)
+Programmer
+Assistant Finance Systems and Data Analytics Manager
+Web & Application Programmer / Developer (5-Day Work)
+Analyst Programmer (ATM Team)
+Database Administrator (SQL Server)-Station in Macao
+System Analyst / Assistant Manager - Application Development
+Senior Associates/Manager - Valuation
+Command Center Analyst
+AssistantManager/Manager, Data Platform, data infrastructure, development
+Senior Full Stack Developer
+Solution Engineer - Data Centre Virtualization & Data Security Solutions (Welcome Fresh Graduates)
+Research Engineer - AI Theory Lab of Huawei Noah’s Ark Lab
+Data Science & Analytics Lead
+Web Engineer (Perm, Fintech Forex Trading)
+Multimedia Developer/ Multimedia Programmer
+FileMaker Developer
+Senior Engineer
+VBA Data Officer - Costing
+Analyst Programmer
+Data Engineer (International Property)
+ETL Developer
+Data Engineer
+Software Developer / Programmer ( Frontend / Backend / Full Stack )
+5G/6G Protocol and Application Software Design - Principal Engineer / Lead Engineer / Engineer
+Analyst Programmer / Programmer
+Senior Technical Lead - Transaction System
+Junior Software Developer
+System Analyst/ Application Architect
+Backend Developer / Analyst Programmer / System Analyst - Perm / 5 days work / 25K - 55K !
+Senior System Administrator (Windows 365)
+Bioinformatician
+Flutter Mobile App Developer
+Product Data Manager
+IT Programmer(FromDB Limited)
+Smart Mobility - Senior Engineer / Engineer
+STEM Instructor / Education Officer
+Senior Engineer / Engineer/ System Development, Cyber Security and Analytics
+Cloud Engineer (AWS/Azure)
+Software Quality Assurance Engineer
+Junior Data Engineer/28-45k/Conglomerate
+IT Project Coordinator / Analyst Programmer/ Developer (18K-50K) (Fresh Grad Welcome)
+Senior Systems Engineer / Manager - Cyber Fusion Centre (CFC) - GTS - Hong Kong
+Senior Analyst Programmer / Analyst Programmer
+Senior/ Junior Full Stack Developer- Insurance Company, Digital Delivery & Transformation
+5G/6G Baseband Algorithm Design - Principal Engineer / Lead Engineer / Engineer
+Low Latency C++ Developer
+Fullstack Developer
+(Senior) System Analyst (Payment)- Corporate Banking
+Programmer (Junior/Fresh Grad Welcome to Apply)
+Finance Manager (Data Analysis)
+Analyst Programmer (Up to 25K/ Shatin)(SDG-85550)
+Programmer / Senior Programmer
+Backend Engineer - Cards - Mox - (2300004789)
+Senior Engineer/Engineer/Engineer Associate (PI), Software Application Development
+Research Assistant, Robotics, Unity Developer (AR/VR)
+Java Developer
+FX Trader- Capital Market Department (CM)
+Director of Data Management
+Executive - Revenue - Corporate Office
+Financial Analyst/Data Analyst/Software Engineer/Hardware Engineer(Top Urgent)
+System Administrator
+Data Processing Officer
+Smart Mobility - Principal Engineer / Asso. Principal Engineer / Snr Lead Engineer / Lead Engineer
+($28k or above, 5 days) Senior Software Engineer & Senior Programmer (Unity Game Development)
+Data Analyst
+Data Engineer
+Programmer, System Development Team (AVP)
+Quantitative Developer
+AI Researcher - The AI Theory Lab of Huawei Noah’s Ark Lab
+System Engineer
+BI Specialist
+Test Engineer Associate -Testing COE HK Testing – IT (R000643)
+Senior Software Engineers/ Tech Lead
+Data Engineer (Listed Company) (30K -40K)
+Production Support Lead (EQD & FICC) - Investment Bank
+Business Analyst - Data project (Top-tier bank)
+Data Engineer (Global MNC, 35k, Perm)
+Machine Learning System Researcher/Engineer/Intern - Huawei Noah’s Ark Lab
+Cloud Developer
+System Analyst / Programmer
+Full-stack developer/Java Software Engineer
+.Net Analyst Programmer / System Analyst  [4 vacancies, Finance, up to 58K]
+Assistant Vice President - Market & Quantitative Risk - Clearing Risk Management - Ops (R000456)
+Programmer / Analyst Programmer / IT Development Group / (WFH Policy)
+System Engineer
+Web Developer / Programmer
+Research Assistant / Postdoc Fellow (several posts)
+Backend Developer / Full Stack Developer / Programmer (Near Kwun Tong MTR)
+Web3 Developer
+Senior Manager, Platform Planning and Data Analytics
+Software Quality Assurance - Senior/Associate
+Associate, Cybersecurity Analyst
+Data Engineer (In-house/ Listed Company)
+Programmer / Analyst Programmer (JAVA)
+DevOps Developer (Banking)
+Business Planning Officer (Data Analysis)
+.Net Developer, Financial Services
+Officer, Digital Marketing (Bank)
+Assistant Hybrid Cloud Engineer (Part Time)
+Programmer - JavaScript / Java / React Native (Welcome IT Fresh Grads) $20K - 55K
+Assistant Vice President - Market & Quantitative Risk - Clearing Risk Management - Ops (R000446)
+Postdoctoral Scientist – Applied AI, Computer Vision, Machine Learning
+Analyst Programmer (HTML5, North Point, up to $40K, in-house)
+Production Support/DevOps EngineerTrainee/Software Engineer(Fresh Graduate are welcome))
+Senior Software Engineer (HTML5 / NodeJS / React)
+Software Engineer (Robotics Machinery)
+Software Project Assistant
+Senior / Software Engineer
+Researcher/Engineer/Intern - Huawei Noah's Ark Lab Enterprise Intelligence (EI) Team
+Senior Project Manager – Artificial Intelligence/ Machine Learning $900K plus
+Assistant System Officer – Library (Ref: LA (LIB) 2023-03-17)
+Computer Officer / Programmer I (Ref: 2300304) Office of the Chief Information Officer
+ASSISTANT MANAGER – ANALYTICS & DATA ENGINEERING
+DevOps Engineer(12 Months Contract, 41K)
+Software Engineering Manager
+Officer (Deposits and Payment) - UAT
+Operations Analyst
+Senior C/C++ Engineer
+Automation Development Lead
+Solution Architect (Data Analytics) - Publicly Listed Co. / Attractive Compensation / 2+yrs exp
+後端開發員 / Backend developer
+Analyst Programmer
+Summer Intern (Overseas)
+Analyst Programmer / Programmer
+Application Support - Equity Trading (45K-55K)
+Software Developer
+Hardware Engineer / Junior Hardware Engineer
+Assistant Manager, Digital Products & Analytics
+Senior Officer, Performance Management (Data Analysis)
+DevOps Lead (Banking Industry)
+[Bank Perm] Java SA/ AM  [up to 58K]
+Vice President - Market & Quantitative Risk - Clearing Risk Management - Operations (R000472)
+FPGA Development - Associate Principal Engineer/Senior Lead Engineer/Lead Engineer/Engineer
+Programmer (Internship)
+IT System Analyst
+Senior Software Engineer - Consumer Audio
+Principal System Engineer-Mainframe CA1/CA7/Endevor-Inhouse Financial Services-60-75K+4-6 mths Bonus
+Java System Analyst (In-house project; Senior Analyst Programmer welcome) (Perm. Up to 60k + bonus)
+RPA System Analyst - Leading Bank
+Senior Data Engineer - Fast-growing listed company - HKD$50k - 80k
+Senior Data Architect
+Senior Software Tester
+AVP, Business Intelligence - Banking
+Technical Manager (Ruby on Rail, up to 60k)
+Customer Contact – (Senior) Command Center Analyst
+NLP Researcher/Engineer/Intern -The Speech and Language Lab of Huawei Noah’s Ark Lab
+Software Engineer (Frontend), IT Department
+Assistant Manager, Cloud Operation/ Senior Operation Engineer (On-shift duty/ standby duty)
+Data Engineer (Perm/35k + Competitive Bonus/Listed Group)
+Data Analyst/50k/Retail
+Analyst Programmer
+Web Application Developer (.Net)
+Business Intelligence Visualization Developer
+Backend Developer
+Trader, Institutional Equities Department
+System Engineer / Senior System Engineer (HKHPC-ISS)
+CRM Analyst ( Data Analytics & Modelling)
+ETL Specialist / Data Analyst
+Analyst Programmer / Programmer
+AI Engineer
+Post-Doctoral Scientist
+System Analyst/Programmer (Data Warehouse)
+Algorithm Engineer (3D Reconstruction) (Ref CLR2023-002)
+IT Assistant Analyst
+Application Support (Front- Back Office/ Trading)- 45k- 50k
+Research Assistant (Job ID: 8513)
+Senior Engineer (PI) /Engineer (PI), Application Software
+Technical Lead - Senior Manager -  Transactional Services
+Analyst Programmer / Programmer (Product Development Team)
+Quality Assurance Engineer | Fin-Tech | 14th month guaranteed bonus
+Cloud Engineer
+Associate Principal Engineer/Senior Lead Engineer/Lead Engineer, Optical Designer
+Java programmer | Stock trading | International company
+Solution Consultant, Data Centre (CMIJD-CMIXSC)
+Embedded System - Senior Engineer / Engineer
+Research Assistant, Electronics and Embedded Software Development
+Embedded System - Senior Engineer / Engineer
+Senior Lead Back-End Developer (Individual Contributor) for Mobile Social App
+5G/6G Embedded Sys Dev - Associate Principal Engineer/Senior Lead Engineer/Lead Engineer/Engineer
+System Engineer
+SUMMER INTERNSHIP PROGRAMME (TECHNICAL STREAM)
+Assistant Manager / Technical Lead ( In-house / Perm )
+Java Developer
+Analyst Programmer / Programmer (Systems)
+Junior Programmer/Business Analyst
+Senior Engineer (PI) / Engineer (PI), AI Software Development
+Investor Development Specialist
+Application Developer
+广发银行股份有限公司 总行模型开发类岗位
+Senior Market Risk and Model Valuation Manager (VPJ)
+Senior Analyst or Associate Manager, Marketing Strategy (Bangkok Based, relocation provided)
+VP , Team Lead - Management Reporting & Expense Management (Banking)
+System Analyst / Analyst Programmer / Backend Developer (Python / PHP Laravel & Node.js)
+Systems Engineer (CMCS)
+Senior/Software Support Engineer Factory Automation
+Senior Analyst/ Associate Manager, Marketing Strategy( Bangkok based/ Relocation provided)
+Manager, Technology Solutions - CPMO
+Associate Software Engineer - Cash Management System
+Business Intelligence & Analytics( Power BI) - Top Urgent
+Expert R&D Engineer – AI (ML, CV)
+Senior Business Intelligence & Analytics( Power BI) - Top Urgent
+Principal AI Engineer / Senior AI Engineer
+Senior Lead Engineer / Lead Engineer, Computer Vision
+Manager / Senior Manager - Process Automation, Operations
+Test Specialist - Pension
+IT Quality Assurance Manager - Data Analytic Platform
+System Engineer
+Embedded Sys Dev - Asso. Principal Engineer/Snr Lead Engineer/Lead Engineer/Snr Engineer/Engineer
+System Architect - PEGA (up to 80000 a month)
+Network Engineer
+Senior System Analyst / System Analyst (Corporate Cyberbanking) (Permanent) (HK$45K - $65K)
+Programmer
+Senior Engineer, Robotic Systems
+Frontend Developer | Perm | Web Development
+Blockchain Web and App Programmer / Researcher
+Senior Analyst Programmer / Analyst Programmer (In House)
+Business Analytics/Business Planning/ Business Intelligenc/Data Analytics Manager (Multi - openings)
+**Up to 50K** Analyst Programmer / System Engineer
+Cybersecurity / FinTech Cloud Application Developer
+Senior Software Engineer / Software Engineer / Senior System Engineer / System Engineer
+System Administrator (Yuen Long)
+Sales Operation Analyst
+Power BI Developer
+System Analyst (Ref: JD-SYSAN)
+Trainee Analyst, Racing
+Senior Programmer (5 days)
+ANALYST PROGRAMMER
+(Senior) Analytics Manager (Consumer Insights)
+Software Development Engineer
+VP/ AVP, quant and model risk, leading financial institution
+Site Reliability Engineer (Infra/VMWare) - Inhouse Financial Services - 50-60K + 4 months Bonus/Perm
+Programmer (5-Day Work)
+Data Engineering and Analytics Manager
+Data Analyst/BI Consultant - (Customer Data) International Ecommerce (30%increment)
+Business Intelligence Manager, MNC
+Researcher (Senior/Junior/Intern)-The Speech and Language Lab of Huawei Noah’s Ark Lab
+Technical Business Analyst - 36k MAX (Python/Power BI)
+Senior Software Analyst
+Talent Acquisition Manager - Information Technology (AI/ML Data Scientist Blockchain)
+Credit Risk Manager / Senior Credit Risk Manager (Project Manager / Business Analyst)
+Data Engineer - Mox - (2300001581)
+System Architect
+Full-Stack Web Developer / Programmer (Fresh Graduate is welcome)
+GIS Analyst / Land Surveyor / Researcher
+Engineer, Customer Experience Assurance
+Senior Engineer (PI) /Engineer (PI), Software and Algorithm
+VP - IT Architecture Risk
+Solution Analyst - Data Migration 3
+Tech Lead (Application)- Multinational Insurer
+Senior System Engineer (5 days / Kwai Chung)
+Data Engineer - 30-50K * 12 + Bonus (Can negotiate up if needed)
+System Administrator
+BI Specialist / Data Analyst (Five day work weeks)
+Analyst Programmer / System Analyst (big data) - 5 days
+System Engineer
+Frontend/ Backend/ Full Stack Developer
+Assistant Index Review Manager
+Consulting Analyst
+System Architect
+Programmer
+Credit Risk Manager (Modelling)
+5G Systems and Application Development (5G Small Cells) - Engineer (PI) / Engineering Associate (PI)
+Data Science Engineer (Financial Service)
+Developer  | ( Backend / Frontend )
+Assistant Manager (Customer Analytics)
+Data Scientist - Mox - (2200029302)
+Senior Optical Designer
+Cloud Engineer (~40K)
+Senior Optical Designer
+Biostatitiscian
+Lead Quantitative Developer - Crypto Exchange platform
+Huawei Hong Kong Research Center 2023 Graduate Program-Software Engineer/Intern
+Sales Manager / Senior Sales Manager
+Operations & Data Analyst at hedge fund
+Programmer (Fresh Graduate Welcomed)
+Software Engineer/Developer/Programmer/ FAAMG/Virtual Bank (Python) (30% Increment )
+Full Stack Web Developer
+Testing Engineer
+Test Engineer Officer - Technical Services-Markets Systems – IT (R000614)
+Software Engineer - Building Services / Network / Double Pay
+Software Engineer Trainee
+Data Architect ( In-house, Perm )
+Application Developer
+AI Systems Analyst (AI Team)
+Vice President - Market Surveillance & Monitoring - Operations (R000313)
+ASSISTANT RESEARCH OFFICER – QUANTITATIVE RESEARCH
+Data Science Analyst - Conglomerate (Max 45K)
+Senior Analyst Programmer
+Programmer/Analyst Programmer – Banking Projects
+Term IT Innovation Specialist
+Engineering Technician
+Software Engineer (C/C++) (Senior/ fresh grad welcome)
+Data Analyst / Data Engineer
+Analyst Programmer
+Junior Programmer - Fresh Grad Welcome
+Software Engineer (AI / Machine Learning Programming)
+Data Architect (DWH, BI, Data Analytics and AI/ML)
+Software Engineer / Analyst Programmer / Web Application Developer
+System Analyst  (職位編號：SA-HO-IT)
+Senior Membership Intelligence Analyst (1-year temp)
+System Analyst - Healthcare IT Solutions
+Senior Analyst / Assistant Manager, CRM & Data Analytics
+Senior Software Engineer
+System Engineer / Senior System Engineer
+Risk Manager (风控总监，Listed Chinese securities)
+Manager (Quantitative Risk)
+Engineering Manager
+Senior /Junior Full Stack Developer
+Business Transformation Manager - Data Analytics
+Programmer - Banking & Finance
+Quality Assurance Engineer - World's Largest Tech Firm (Part of FAANG) - Test Automation
+Data Analytics Manager - Fintech
+DevOps Manager - (Perm $80k+)
+Assistant Engineer, Cybersecurity
+iOS Developer
+Analyst Programmer / Software Engineer
+Programmer (Junior role -  Fresh Grads welcome) IBM i, Java/J2EE, VBA, SQL 23K+/-
+Hardware Engineer
+Analyst Programmer
+Data Analyst (5 days work)
+Product Manager | Smart Living - AI / IoT
+Director / Senior Manager, Data Architect & Management
+Cloud Engineer / DevOps Engineer (AWS/ Microservice/ React.js) Up to 60K
+Analyst Programmer / System Analyst
+Web & Mobile Developer (.Net / Javascript)
+Software Developer (JavaScript, VUE.js, Laravel, Node.js, php, Tomcat) (Ref: ESI/HR/23302)
+IT Lead, System Engineer (Cloud Architect)
+Senior Analyst Programmer
+Risk Management, Market Risk / Credit Risk (SA-VP)
+MNC Data Analyst - up to $40K + Bonus (Perm)
+IT Compliance Officer - Cloud & Platform - IT - 12 months Contract (IRC28480)
+Senior Engineer/Engineer, Digital IC Design
+Java Analyst Programmer/ System Analyst [Perm Role, Bank, 35 -50K]
+AI System - Principal Engineer / Senior Lead Engineer / Senior Engineer
+Senior Developer (JAVA)
+Senior Web Developer
+Tech & Data Engineer / Trainee (InnoLab)
+Audio Algorithm Engineer
+Fintech Intern
+Senior Knowledge Management Specialist, Maxim's Academy
+Slam Algorithm Engineer
+System Engineer (Support Cloud & Network projects)
+Data Engineer /Top Financial Company - HK$35K - HK$65K/m
+Commercial Data Analytics Manager APAC
+Senior Data Analyst
+Senior Risk Management Manager - Market Risk (Ref: SRMM-MR-KF-JDB-NCB)
+Machine Learning for Robotics Researcher (Full-time/Intern/Post-doc)-Huawei Noah’s Ark Lab
+Software Engineer
+Post-doctoral Fellow in Bioinformatics/Bioinformatician
+Senior Programmer / Programmer
+Software Developer
+IT Trainee - Programmer/ Mobile Developer/ QA / Web developer (Welcome Fresh graduates) - 17k - 26k
+System Engineer
+Senior ETL Lead - Pension
+Solutions Sales Engineer
+Senior Data Scientist, Financial Services
+IT Team Leader
+Senior Quality Assurance Engineer
+Analyst Programmer / System Analyst (Backend - Node.Js) - Expansion
+Analyst Programmer/System Analyst (Oracle/SQL/Unix, Banking) (Ref.GTS_ETL_BI)
+Postdoctoral Fellow – Department of Supply Chain and Information Management
+Manager, Data, Analytics and CRM (CRM Specialist) - WPB
+Cloud Engineer - MSP Team (Fresh Graduate Welcome)
+Marketing Analyst (Associate/Analyst/Senior)
+System Analyst (Application Development) (5-day week)
+Senior Software Engineer/ Software Engineer (Welcome Fresh graduates)
+DevOps / Software Engineer
+Technical / Assistant Technical Lead - C#
+Business Intelligence (BI) Reporting Developer
+System Analyst
+Analyst Programmer / Systems Analyst, Credit card / ATM systems (Information Technology Department)
+Software Automation QA Engineer | Multimedia
+Principal Engineer/Associate Principal Engineer/Senior Lead Engineer, Digital Logic Design
+Business Analyst - Technology (45-50k)
+Technical Team Lead/ Software Architect (Up to 80K, Global E-commerce)
+**URGENT** 2+ years**Software Engineer / Analyst Programmer (C#.NET) **CAREER GROWTH**
+Deputy / Credit Risk Manager (Analytics)
+Senior Analyst - Business Analytics
+SR. ELECTRONIC ENGINEER (5-DAY WORK)
+System Analyst/Analyst Programmer/Programmer/BA/QA(Java /.NET/ Mobile/BI/Web/DBA)
+Data Analyst Associate
+PowerPlatform Data Analytics Consultant
+Senior System Analyst
+Controls Engineer(Audio/Video)
+(Senior) System Analyst, Insurance, AI and chatbot, 60k
+Senior Web Developer (Backend) (VCO176/J11)
+IT (1) 系統管理岗; (2)  软件开发及运维岗- (perm) –IT  (Chinese Corporate Bank)
+Senior Test Engineer
+Computer Vision Engineer
+Senior Software Engineer
+Lead Engineer, Embedded System
+Java Programmer (2 years experience, over $40K)
+Software Developer
+Design Verification Engineer/Intern
+Systems Engineer (Java Backend)
+Business Analyst
+Analyst, Risk Management (up to 35-45k)
+Full Stack Developer
+ERP Application Support / Analyst Programmer
+Bank End Developer - New Media
+AI4EDA R&D Researcher/Engineer (Fulltime/Intern) - Huawei Noah's Ark Lab
+Risk Assistant Manager (Listed Chinese securities)
+Computer Scientist
+C# .Net Programmer/ Analyst Programmer/ System Analyst/ Team Lead (Perm; Up to 55k + bonus)
+Data Analyst - Top MNC Commercial Bank (up to 37k))
+Multimedia Developer/ Multimedia Programmer
+Software Engineer - Automation Testing Focus (VTT298/J08)
+Senior DevOps Engineer - K8s/Openshift/Cloud - Perm - 40-55K + Bonus
+Full Stack Developer| IoT
+Programmer - IT Division
+Specialist, Revenue Management
+Consulting - Financial Services, Technology Risk - Senior Consultant - Hong Kong(1095361)  
+Backend Developer
+Senior Commercial Data Analyst
+Senior Engineer (PI) / Engineer (PI), Embedded Software Development
+IT Engineer / Software Engineer
+Full-stack Developer (2 years contract) - Information Technology (BCT-IT19)
+Junior Software Engineer
+Backend Developer
+Senior Officer, Data Management (5 days)
+Backend Developer
+Principal Engineer, Smart Factory
+Senior Officer/AVP, Business Intelligence (Retail Banking Department)
+AI Scientist - Expert AI Enabling Limited
+Data Analyst/ Senior Data Analyst
+Software Developer | 48K
+Trader, Financial Markets and Investment Department
+Data Integration & Migration Lead - IT Digitisation
+Tech Lead
+Back End Developer (Node.JS)
+Trainee -Web / Programmer / Business System Analyst / Data Analyst / System Engineer (Welcome Fresh)
+Software Engineer (CMS)
+Systems Consultant (Sever Management with focus in Windows OS and Linux OS)
+Automation Test Engineer
+Engineer / Assistant Engineer (Hong Kong Gold Coast)
+Programmer / Analyst Programmer (Java, Government projects, North Point)
+Senior BI Manager  - Leading conglomerate
+Static Data Management
+Analyst Programmer (Web Development)
+Assistant Project Manager, AI & Software
+(Senior / Junior) Software Engineer (Robotics and Automation System)
+Systems Engineer
+Analyst Programmer
+System Analyst / Senior System Analyst up to 55k
+Senior Lead Engineer / Lead Engineer, 5G/6G Protocol and Application Software Design
+Software Architect (Hybrid Working)
+Senior Analyst Programmer
+Research Associate/Postdoc/Research Assistant in the Department of Biomedical Sciences
+Senior Lead Engineer / Lead Engineer, Computer Vision / 3D Vision
+Software Developer
+Java Backend Developer | Fintech Revolution - Build the Future of Finance
+Senior Software Engineer - C# / .NET (Web)
+System Analyst (Data), System Analyst (Java), Analyst Programmer (Java)
+Data Architect - Wealth Management
+People Advisory Services - Rewards and Recognition - Senior Consultant / Manager - Hong Kong
+System Analyst, Mobile Application - ESF Centre
+Finance and HR System Development Specialist up to 55k
+Data Analyst, top tier luxury brand, global project exposure!!!
+Senior Analyst Programmer
+Data Engineer - IoT / Smart City / Energy Platform (REF: CESG/DE)
+Manager (Robotics Process Automation Business Analyst) (PR0549/22-23)
+Mobile Programmer (up to 40k)
+Risk Advisory Services - Senior Consultant / Consultant (ESG Specialist)
+People Technology Analyst (HRIS | Data Analytics)
+Associate, Trading Operations (R000419)
+Assistant Computer Officer / Programmer I (Network Services) (Ref: 2300166)
+Analyst Programmer (IT System Development)
+Linux DevOps Engineer - Leading Investment Bank
+Senior Terminal Automation Analyst
+Domain Architect - (Leading MNC Bank - 50k Upwards)
+Data Engineer - Global Leading Insurance Firm - Up to HKD$50k
+Senior Java Software Engineer
+Business Analyst/ Data Analyst (Banking Industry)
+Analyst Programmer
+Risk Manager (风控总监，Listed Chinese securities)
+Executive Manager, Data Governance and Data Warehouse
+DevOps Engineer
+Risk Manager (风控总监，Listed Chinese securities)
+Frontend Web Developer
+Enterprise Architect - Data
+Analyst Programmer (Web-based Frontend & APP)
+Web/ Mobile System Analyst
+Backend Developer - Messaging chatbot (40K)
+Senior Consultant/ Manager
+Database Administrator - Renaissance College
+Power BI Developer - Pension
+Senior Software Engineer - Embedded System Development on Baby Care Products (VTT272 & VTT273/J16)
+Analyst Programmer/ System Analyst (Java/node.js ) - in-house perm role, Up to 50K, Double pay+bonus
+Programmer 程序員
+Proprietary Trader
+Programmer (Java, in-house, perm role, immediate available)
+Junior Java Developer (HK – 1 headcount) – Top Investment Bank – HKD$25-40k
+Part time Student Intern (6-12 months) (Ref: 200155)
+Senior DevOps Engineer (Azure Cloud, Data, CI/CD Automation) [Listed Group]
+System Analyst
+Senior Application Developer, ReatJS/AngularJS (Multiple Positions) (Ref: SADR/JH)
+Programmer / 電腦程式員
+Project Data Analyst (Entry Level)
+Java Developer ( Spring Boot | MNC )
+Computer Vision Engineer
+Project / Hardware Engineer
+Analyst Programmer / Senior Programmer
+Senior Data Analyst, Marketing focused
+Solutions Programmer (5 days work)
+Senior Engineer, Embedded System
+Data Analyst - Regional Bank
+Senior Engineer, Embedded System
+Robot Engineer
+Commercial Data Administrator / Data Analyst (CRM - APAC regional)
+VP / SVP – Finance MIS Reporting & Expense Management (Banking)
+Programmer
+DeveOps Manager - Leading Hedge Fund, 60-80K
+AVP, Systems Support & Development (Sr. Analyst Programmer / Analyst Programmer, Trading Systems)
+Programmer
+Associate System Analyst (Ref.: IT-ASA)
+Assistant IT Officer / IT Officer (Programmer/ Analyst Programmer - JAVA)
+Senior Application Developer, FinTech
+SAP Analyst Programmer
+(Senior) Android Developer – Banking
+StartUp - DevOps Engineer - Up to $85K
+Global Cybersecurity Intern
+Cloud Engineer - Asian Leading Financial Firm
+Analyst Programmer / Programmer
+React Programmer / Software Developer
+Senior Frontend Developer (eDM) - Tourism
+Salesforce Developer / Technical Lead- Global Luxury Company - HKD$50k-80k (Visa Provided)
+Decision Making and Reasoning Lab Researcher - Huawei Noah’s Ark Lab - Researcher/Post-doc/Intern
+Decision Making and Reasoning Lab Researcher - Huawei Noah’s Ark Lab - Researcher/Post-doc/Intern
+(Senior) UI/UX Developer - Global SaaS Platform - HKD$20k-40k
+JAVA Analyst Programmer (FinTech | Spring | Microservice)
+Fullstack Developer (Only Frontend/ Backend welcome) (In-house | No OT) (Up to 50k)
+Senior Software Developer/Software Engineer/Analyst Programmer (E-commerce & Robotics)
+Java Programmer/ Analyst Programmer/ Backend Developer (Perm. Up to 45k + bonus)
+IT Trainee/ Data Analyst/ Network Engineer/ Programmer (Fresh Graduates are welcome)
+Assistant Data Analytics and CRM Manager
+Digital Physical Design Engineer/Intern
+Senior Software Engineer / Senior Backend Developer (Spring, Java, TDD) | Fintech MNC
+Officer - System Development (ITD)
+Technical Lead (Web3 projects)
+Senior System Engineer
+Web Developer / Senior Web Developer
+System Engineer
+AVP(Transformation-SRE), Information Technology (R000497)
+Programmer
+Financial Services Assurance - APAC Data Analytics - Enablement Lead - Hong Kong
+Programmer
+Lead Engineer, Factory Automation
+Senior Systems Specialist - Data Migration
+C# Programmer (Solution provider | Great Job Exposure | Up to 30k)
+Senior Engineer (PI) / Engineer (PI), FPGA
+Cloud Engineer  - New Media
+Senior Programmer for Oversea Banking System Project (1-year Contract)
+Manager, Risk Management and Control | Banking
+IT Software Architect / Application Development Manager
+Senior Engineer (PI) /Engineer (PI), Electronic Engineering
+Principal Engineer/Associate Principal Engineer/Senior Lead Engineer, ASIC Design
+Interns (2023 - 2024, 20+ Openings)
+Full Stack /Front-End Programmer (AI Team)
+Chief Architect & Senior Behaviorist  (Ref: JD_CASB20230310)
+Assistant Manager, Performance & Risk Analytics (ARC-092-J)
+Data Analytics Manager - Technology
+IoT Field Engineer
+(Perm/Open to Fresh Grad & Bootcamp Student) Associate BI Consultant / Assistant Business Analyst
+Senior CRM Analyst (SQL)
+Senior Programmer / Programmer (Fitech Company)
+Technical Lead
+Index Research Analyst
+Analyst Programmer / Senior Analyst Programmer
+Real Estate / Infrastructure Economist
+AI Engineer
+ERP Specialists/Consultants (Multiple headcounts) - MNC - Up to HKD$60k
+Automation QA Engineer (35-45k, perm role, inhouse)
+IT Project Assistant Support (9 months, HK$37685/month)
+PHP Web Developer
+Assistant Vice President, Domain Architect (1-year contract)
+Analyst Programmer (Backend)
+Postdoctoral Fellow / Research Associate (CAiRS/P1.1-1.3 - Computer Vision)
+Senior Lead Engineer / Lead Engineer - Optics Design
+Senior Application Programmer (SAP), VB.NET, C# (5 days work) / Programmer
+Analyst Programmer / Programmer
+Senior Solution Manager
+(Senior) Frontend Developer
+Senior Analyst Programmer (C#. Net)
+Data Analytics Solution Manager
+Senior Backend Engineer - 30-50K * 12 + Bonus (Can negotiate up if needed)
+System Analyst
+Site Reliability Engineer (Infra/VMWare) - Inhouse Financial Services - 50-60K + 4 months Bonus/Perm
+Senior Betting Systems Implementation Officer, WP
+Operations Data Analyst - Fresh Grads Welcome
+SAP ABAP Developer (Up to 33k+, bonus, medical, competitive package!!)
+Analyst Programmer / Senior Analyst Programmer up to 45k
+Wealth Management Manger - TTPS (高才通計劃) & IANG
+AVP - Data Architect
+Cloud Engineer/ Senior Cloud Engineer
+Software Engineer (Fresh Graduates are welcome)
+Senior Officer, Credit Risk Analytics – Banking
+Software Engineer (HTML)
+IT Trainee - Programmer/ Mobile Developer/ Web developer / Systems Support
+System Analyst / Analyst Programmer / Programmer (Digital & Fintech)
+Power Apps Business Analyst/Power Apps Developer
+Data Center Operator
+Senior Lead Engineer / Lead Engineer, Electronic & Embedded Engineering
+E-commerce Web Developer
+Quality Assurance Engineer, GETS Solution Development
+Senior trader - equity & derivatives (HK market)
+Senior Cross-Platform App Developer (Individual Contributor)
+Manager – Data Management and Analytics, Information Technology
+System Analyst, Implementations - ESF Centre
+Mobile Developer (Fresh Grads are Welcome)
+(Senior) System Engineer / Administrator - Servers x 4 openings
+Systems Engineer
+Hong Kong – Data Solution Architect (Manager level), Technology Enablement
+Senior Programmer / Programmer
+Senior Engineer (PI) /Engineer (PI), Intelligent Sensing
+Senior Operations Supervisor - Data Centre & Vendor Management - IT - Associate (R000385)
+Software Developer / Programmer ( Frontend / Backend / Full Stack )
+Data and Integration Architect / Specialist (HK$6000 New Joiner Incentive)
+Senior Engineer (PI) / Engineer (PI), Opto-electronics
+Regional Cloud Operations Engineer (MJ002279)
+Analyst Programmer
+Full Stack Software Engineer (PHP & Vuejs) | Asia Listed Advertisement Media
+Summer Intern
+Business Analyst / Executive Assistant (strong in reporting & analysis)
+Data Warehouse / Business Intelligence - System Analyst / Analyst Programmer (4 openings)
+System Analyst / Analyst Programmer (Backend DataBase)
+Lead Business Insights & Data Analyst, CSII
+Senior Data Management Specialist
+Engineer (Quality Assurance)
+Software Engineer (C / C++ Preferred) (Fresh Graduate / IANG Holder Is Welcome)
+Research Assistant / Postdoc Fellow (several posts)
+Sales Data Analyst
+Consultant/Senior Consultant -  Financial Risk Management, Risk Consulting
+Software Engineer (5-day work + double pay with bonus + work life balance)
+Developer/ Programmer/ Analyst Programmer (Frontend/ Backend) (Up to $50K)
+Firmware Engineer (Frontend) Sizable Company
+Manager to SM, SME Business Management (Data Analyst)
+System Engineer/Admin (From 22K to 65K)
+PowerPlatform Data Analytics Consultant
+Chief System Analyst (Data warehouse)
+Analyst, Business Intelligence
+Data Analytics and CRM Manager
+Senior Analyst Programmer
+Senior Analyst Programmer / Analyst Programmer (Permanent role with full benefits!)
+(Senior) System Analyst, banking, 50k - 55k
+System Analyst- Insurance Company, Digital Delivery & Transformation
+VP / SVP – Management Reporting & Expense Management (Banking)
+Game Developer (Up to 30k)
+Risk Assistant Manager (Listed Chinese securities)
+Staff Engineer, Backend (Tech Lead) - (2200030826)
+Senior Consultant, Data Strategy & Solutions
+Assistant Manager, Business Intelligence | Research background is preferred | Prestigious Group
+SOLUTION ARCHITECT
+Cloud & DevOps Engineer
+ANALYST PROGRAMMER (Data & Analytics)
+DevOps Engineer
+Assistant System Engineer / System Engineer
+Trainee - Web/ Programmer/ Business System Analyst/ Data Analyst/ System Engineer (Welcome Fresh)
+Analyst programmer_Financial institution_JAVA
+Data Specialist/Project Management Assistant - Bank
+Web / Mobile Application Developer (Fresh Graduate welcome) 20K-60K
+Portfolio Solutions Sales, Vice President
+Risk Manager (Asset Management)
+Senior IT Engineer - Linux + Cloud
+Senior System Analyst, Node.js, Insurance (AI solution)
+交易員/初級交易員 Trader
+Analyst Programmer
+Frontend Programmer/ Mobile Apps Developer (iOS / Android)
+Senior Consultant - Integration, Apps Tech (Hong Kong) (Short notice is a plus!)
+Programmer (Junior/Fresh Grad Welcome to Apply)
+Embodied AI Researcher (Full-time/Intern/Post-doc) - Huawei Noah’s Ark Lab
+Programmer/Programmer Analyst
+Backend Lead (Enterprise project, up to 60k)
+AVP, Stocks Borrowing & Lending Trader, Equity Derivatives
+Software QA Tester (Part-time)
+Systems Specialist / WEB Application Programmer
+BIM Modeller (Ref.: BM/23/204)
+Database Administrator / DevOps Engineer (Migration Project - UP to 40K+)
+DevOps Engineer - Mox - (2200031852)
+System Administrator
+System Administrator
+System Analyst
+Senior Engineer / Engineer, Quality Assurance
+Business Analyst - Public Health (45K Max)
+GIS Data Operator
+Software Engineer / Java Developer
+Director / Senior Manager, Data Architect
+Analyst / Associate _ Rewards Data Intelligence Consulting_Hong Kong
+Developer IT RPA
+Junior Programmer / Programmer ( JAVA / Fresh Grad is Welcome )
+Deputy Head, AI and Emerging Technology
+Firmware Engineer (Embedded system)
+Solution Analyst - Corporate Banking System
+Business Intelligence (BI) Engineer
+Assistant Manager / Engineer - 5G Industry Application and Solution
+IT Junior Engineer / Support (5 days work)
+Market Risk Manager/Team Lead (Chinese securities)
+Front End/ Full Stack Developer
+Programmer
+Full Stack Developer
+Analyst Programmer / Programmer
+Night Trader (US Stock Market)- Hedge Fund
+DevOps Engineer
+Operation Engineer
+Web Programmer
+Risk Manager (风控总监，Listed Chinese securities)
+Data Architect - Global Insurance Company - HKD$80K+ per month
+Golang/ NodeJS Developer - Global Fintech Company - HK$50,000 - HKD$80,000
+IoT Engineer
+Part Time Assistant – Valuation Digital Team
+Assistant Engineer / Engineer (Software) (Ref.: A02/2023/03)
+Analyst Programmer - Web & App (5-day work)
+Business/Data Analyst (A leading international bank)
+Senior Officer, Credit MIS
+中国人寿保险股份有限公司 战略研究岗
+Crisis Management Analyst
+Data Center Engineer
+Senior DEVOPS Engineer (about 46000 a month)
+Senior DevOps Engineer
+中国人寿富兰克林资产管理有限公司 资深债券市场研究员
+Backend Developer / Analyst Programmer / System Analyst - Perm / 5 days work / 25K - 55K !
+Lead - Knowledge Management, Maxim’s Academy, Group Human Resources
+AV Technician
+Network Supervisor
+Assistant Business Analytic Manager (Retail, Data Analytic)
+Analytics Officer - CRM
+Senior Manager, Delivery Performance (Data Analytics & Planning Focus)
+Java System Analyst (In-house project; Senior Analyst Programmer welcome) (Perm. Up to 60k + bonus)
+Data Analyst (BI & Data Management) up to 50K
+Head of Risk (Market Risk, Top Chinese Asset Management)
+System Engineer (Linux,VMWare, over $40K)
+Senior Market Risk and Model Valuation Manager (VPJ)
+Quant Macro Analyst (Fresh Graduates are welcome)
+Senior Web/Mobile Developer | Fintech
+Software Engineer (at the rank of IT Officer) in the Division of Landscape Architecture
+Software Developer - Facilities Services (Fintech)
+Programmer (Fresh graduate is welcomed)
+Senior Full Stack Software Engineer - NodeJS - New projects - Up to 72k
+Business Intelligence Developer
+Senior Cloud Engineer
+System Administrator
+BI Manager
+Node.JS / ReactJS Fullstack Software Engineer - Financial Technology
+Senior Engineer (PI) / Engineer (PI), System Integration
+Software Engineer/System Analyst (Java/Spring Boot/Microservices/Large-scale/Bank 30% Increment )
+DevOps Developer
+Electronic Engineer (AI and IoT | Junior to Senior )
+Programmer for network solution
+System Engineer (DevOps)
+Senior Analyst / Associate Manager- Strategic Partnership (Bangkok based, relocation provided)
+Data Engineer / MIS Programmer
+Equities Front Office Senior BA & QAs - renewable contract
+Digital Marketing Analyst (Asia, performance trend analysis)
+Software Engineer (R&D)
+Postdoctoral Fellow / Research Associate (CAiRS-R1-2/P4.2)
+GIS Analyst
+Staff Engineer / Engineer, AI
+Analyst Programmer/ Programmer, Information Technology Services Centre (Ref.: 23/06/ITSC/AP)
+Android Software Developer
+(AGV/ AMR Robot) Electronics Engineer
+Analytical roles- Analyst/ Senior Analyst/ Associate Manager (Bangkok Based, relocation provided)
+Linux Engineer
+System Engineer
+Analyst Programmer
+(Senior) ReactJS Developer - Leading Bank
+Full Stack Developer
+Systems Engineer (Mobile Systems Engineering)
+Assistant, Master Data Management
+Fullstack Engineer
+Huawei Hong Kong Research Center 2023 Graduate Program–IC Engineer/Intern
+System Analyst - AS400/COBOL/CL - Up to 40-50K * 12 + Bonus (Can negotiate up if needed)
+Web3 Engineer (Smart Contract)
+ANALYST PROGRAMMER/PROGRAMMER (Fresh graduate is welcome,MS SQL ,JavaScript, C# and Crystal Report )
+Analyst Programmer / Programmer
+Head of Product/ Head of Risk
+Pre-Sales Engineer
+Senior Analyst Programmer (.NET) - Insurance - 42k - Contract
+Programmer / Analyst Programmer / System Analyst (Welcome candidates from different background)
+Postdoctoral Fellow / Research Associate (CAiRS-R25/P4.3)
+Application Developer
+RPA Consultant/Trainee (Robotic Process Automation)
+System Engineer (VCO252/J01)
+Officer or Senior Officer (Robotics Process Automation Business Analyst) (PR0490/22-23)
+Risk Manager (风控总监，Listed Chinese securities)
+Front-End Developer
+IT Quality Assurance Manager - Data Analytic Platform
+Senior Programmer / Programmer (Java Team)
+Front-end/App Developer Designer
+FinTech - Assistant DevOps Engineer/ DevOps Support
+System Engineer - IoT Projects (REF: ATECP/SE)
+Analyst Programmer (Junior) (up to $20K)
+Full Stack Developer, Treasury Solutions
+Software Engineer / Technical Lead, Java 11, Spring Boot
+Senior Full Stack Developer: Investment Banking/GreenField/NodeJS
+QA Engineer
+Fintech Security Engineer/Consultant
+Principal Systems Analyst - AVP - Markets Systems - IT (IRC24420)
+Alpha Portfolio Services - Vice President
+Java Software Developer
+交易员/ Trader
+Engineering Lead
+Data Manager - Cloud Base
+Senior Investment Officer (Portfolio & Risk Management, Infrastructure Financing and Securitisation)
+SOFTWARE ENGINEER  (Ref: IT/ft/23-05)
+Senior Analyst Programmer_Financial institution_JAVA
+Java Systems Analyst / Senior Systems Analyst
+Electronic Trading Coverage Analyst
+System Analyst ($45K, Central, 5 days)
+Equity & Derivatives Senior Trader
+Full Stack Engineer (FS sector)
+Permanent / Contract Specialist II (Application Development) – Web Application
+Senior DevOps Developer
+Java Software Engineer
+Linux System Administrator / Infrastructure Specialist
+Senior IT Officer | Digital | User experience Design | 30-35K
+Principal Engineer / Senior Engineer / Engineer, Protocol and Software Design
+Junior Programmer (Java, 1 exp., perm role, Kwun Tong, 5 days work)
+Senior/Manager - Software Development
+Programmer (Junior/Fresh Grad Welcome to Apply)
+Software testing engineer
+Assistant Data Analyst / actuarial Trainee - Fresh graduate will consider
+Cloud Engineer / DevOps Engineer | Up to 50k
+Japanese Speaking IT programmer ~37K
+Market Risk/ Liquidity Risk monitoring (Multiple openings)
+Java Backend Developer – Entertainment and Gaming Solutions Provider – HKD$40k – 60k per month
+Senior Programmer (Unity Game Development)
+Senior Java Developer  - Fintech
+System Engineer (iAM Smart Project)
+Graduate Trainee 2023 (Trading Department)
+Solutions Sales Engineer
+Assistant Data Analytics and MI Manager
+Web Developer (Public Sector, ReactJS)
+Vice President, Credit Risk Analytics, Risk Management Group
+Senior Manager Trading Winding Down - Global Bank
+(Senior) Developer - Microservices
+Manager, Model Risk and Validation, well known banking group
+System Engineer
+Programmer
+System Specialist
+Technical Lead- Insurance Company, Application Development, Digital Product
+Contract Data Protection Executive
+Financial Application Developer
+Contact System Analyst (Mobile Application Development)
+(Senior) System Analyst/ Tech Lead (Insurance; welcome IT talents without insurance exp)
+Site Foreman
+Senior Lead Engineer / Lead Engineer, Photonics
+(Senior) Betting Systems Implementation Officer/Analyst (1-year contract), WP
+Business/Performance Analyst – Talent Acquisition
+System Analyst - Healthcare IT Solutions
+Senior Technical Consultant - System
+Technical Lead / Manager (Software Development)
+Assistant Quantitative Research Manager
+Lead Engineer/ Senior Engineer (Ref. No.: CAiRS-LE/SE/P.4.2)
+Technical Lead – Mobile & E-Banking
+Contract Analyst Programmer ( C# MSSQL )
+VP / SVP – Finance MIS Reporting & Expense Management (Banking)
+Technical Services
+Insurance Company - Analyst Programmer, up to 40k (Permanent)
+Manager / Assistant Vice President, Risk Management and Data Analytics
+System Specialist
+Solution Architect - Cloud
+Software Quality Assurance Engineer
+Data Engineer
+System Analyst / Analyst Programmer - ESF Centre
+Automation Test Engineer - Permanent Headcount, budget 35 to 50k
+Testing Specialists
+Software Developer- Java, .net, Mulesoft- Life Insurance
+System Support Analyst
+Senior Associate / Vice President - Risk Management Dept.
+Insight Assistant / Specialist (Social Media Analytics)
+Validation Engineer
+Senior / Electronic Engineer
+Full Stack Developer
+Senior Embedded Software Engineer / Software Engineer (C / C++) - Welcome Fresh Graduate
+Solution Architect
+Linux Engineer / System Engineer (Banking - Up to40K+)
+Senior Manager (Basel Model Risk Specialist) - Intermediaries Supervision, Intermediaries
+.Net AP / SA  [Perm Role, Finance Industry, up to 50K]
+Catastrophe Risk Analyst
+Analyst
+Java Programmer/ Analyst Programmer/ Backend Developer (Perm. Up to 45k + bonus)
+Software Quality Assurance Engineer
+System Analyst - Java, Financial Services
+Part-time Research Assistant (Project No. R6414) (Ref: 230005D)
+Associate Technical Analyst
+Senior Engineer (PI) / Engineer (PI), Software Development
+System Engineer/Senior System Engineer – Microsoft Solution
+Cloud Site Reliability Engineer
+Programmer (.NET)
+Director / Senior Manager, Data Architect & Management
+US Listing Firm - DevOps Engineer - Up to $65K
+Software Architect - Up to 1.2m base + Bonus (Visa available)
+Full Stack Developer (Node.js / React.js / RDS)
+RESEARCH OFFICER / SENIOR RESEARCH OFFICER –  QUANTITATIVE RESEARCH
+Developer (Fresh graduated is also welcome) (Ref:JDB/EPM/DV)
+QA / Test Engineer (Fresh grad welcome)
+Manager / Senior Manager - DevOps Engineer -- Digiqal - Hong Kong
+Assistant Computer Officer / Programmer I (Performing the role of Java Developer) (Ref: 2300262)
+Programmer
+IT/ Cloud Support (Fresh grad welcome)
+Dealer, FX Margin (Pacific time zone) - Currencies & Interest Rates Trading
+Programmer / Senior Developer
+(Senior) Security Engineer - Security Platform & Project Delivery
+Data Analyst Intern / 数据分析实习生
+Contract Software Engineers / System / Infra / Network Engineers | all levels
+Solution Architect - In-house Solution Design
+Programmer / Analyst Programmer
+(Senior) Security Analyst - Research and Development
+IC Design - Senior Manager / Principal Engineer / Lead Engineer
+Game Developer
+Systems Analyst/ Analyst Programmer – Internal Systems
+Software developer (JavaScript, Full Stack, up to 40k)
+Senior Solution Analyst
+System Administrator
+Technology- Backend Software Consultant (Java-Spring boot)
+Postdoctoral Fellow / Research Associate - Electronic Assemblies (CAiRS-R27-28/P1.1-1.3)
+Power Apps Developer
+Associate System Analyst
+Analyst Programmer/System Analyst (Oracle/SQL/Unix, Banking) (Ref.GTS_ETL_BI)
+Junior Programmer/ Analyst Programmer/ System Analyst (Web/ Mobile/ Backend) (20k-60k)
+STEM Co-ordinator (Junior)
+System Analyst/Business Analyst/Analyst Programmer (Bank/Govt/Comm) - Fresh Welcome
+Senior Programmer/ Team Lead (VR/ AR) 45-65K
+Programmer / Analyst Programmer
+Site Reliability Engineer - Inhouse Top-Tier Financial Services - 50-60K + 3-4 months Bonus - Perm
+Analyst Programmer .NET - Banking
+Cloud System Engineer- 30-50K * 12 + Bonus (Can negotiate up if needed)
+Programmer (PHP/Node.js, Kwun Tong, Perm role)
+Solution/Data Architect/Up to 140k/Conglomerate
+Junior Programmer (Fresh Graduate Welcome, C#)
+Data Governance Mgr (up to 75k pm)
+Software Developer (Up to 30k) URGENT role!!!! C#, .Net, SQL, MNC firm, attractive package
+DevOps Engineer (Azure)
+Programmer/Trainee 見習程式員
+Hong Kong – ServiceNow Developer (Senior Consultant level), Technology Enablement
+Principal Engineer / Senior Engineer / Engineer for Analog Physical Design
+Senior System Administrator (Up to 75k)
+DevOps Engineer
+Analyst Programmer
+Junior System Analyst (Websphere Application Server)
+Programmer (Java / ASP.NET)
+Analyst Programmer – App Development
+System Engineer/Senior System Engineer – Cloud Solution
+Senior API Developer (Perm/ 60k+/ Microservices / Large firm)
+程式分析員 Analyst Programmer  (編號: CA/AP/20211210-26)
+Business Analysis Executive, Merchant & Payment Business
+Hong Kong - Associate Director, Risk Consulting, Financial Risk Management
+System Specialist - Tung Chung
+Senior Analyst - Distribution Network Operation Optimisation (2-Year Contract)
+Programmer / Analyst Programmer (Java, Frontend/Backend, Government Projects)
+(Senior) DevOps Engineer (CI/CD) - IT
+Marketing Analyst | International NGO
+(.net) Senior Analyst Programmer / System Analyst
+Software Development Manager (CMS | Websites | Apps)
+Credit Risk Associate - Leading Securities Firm!
+C# .Net Programmer/ Analyst Programmer/ System Analyst/ Team Lead (Perm; Up to 55k + bonus)
+PostDoc / RA for “Spherical nucleic acids for delivery of ocular related drugs” study
+DevOps Engineer
+Senior Solution Architect - Application Development
+Technical Operations Executive (Web Developer / Programming)
+Data Portfolio Manager
+Tech & Innovation Consultant (InnoLab)
+Web Developers / Senior Web Developers (NodeJS, Drupal, PHP, Frontend Frameworks)
+Application Specialist - Frontend/Mobile [12-month Contract]
+Senior Unity/ Unreal Engineer
+Risk Manager (Market Risk) – Leading Banking Group
+Analyst Programmer/Programmer
+Assistant Manager/ Senior Analyst, Investment Risk
+Cloud Services Lead - AVP - Cloud & Platform - IT (IRC28920)
+Application Developer (Up to 40K)
+Associate, Data Management Team, Business Operations
+Liquidity and Interest Rate Risk Manager
+Statistical Analyst
+Perm/Contract Architect/Sr. Specialist/Specialist I(Application Development)–Mobile&Web Application
+Analyst Programmer (Digital Marketing)
+Bank - Database Administrator DBA - $35-55K
+Assistant Risk Manager / Risk Analyst
+Senior Manager (Data Management, Digitalisation Office)
+System Analyst/ Analyst Programmer / Programmer
+Power Apps Developer
+Interactive Developer
+Frontend/ Backend/ Full Stack Developer
+Consultant/Project Consultant(Statistical Hydrology/Computational Hydrometeorology/Weather Modeling)
+Tech Risk Manager/ AM (Virtual Banking, Circa 40-60K)
+Market Risk and Counterparty Risk Manager
+Software Test Engineer - Healthcare system in Micro Service Design
+System Analyst (Data), System Analyst (Java), Analyst Programmer (Java)
+Senior Service Delivery Manager - AVP - Workplace Technology - IT (R000365)
+Senior Data Projects Management and Delivery Analyst
+Director / Senior Manager - Actuarial Hong Kong
+Assistant System Engineer / System Engineer
+System Analyst - Healthcare IT Solutions
+Front End Developer for a Digital Tech team
+Junior Programmer (Fresh grads also welcome)
+Senior Developer (.NET & JAVA)
+System Engineer
+Business Management & MIS reporting, Wholesales Banking
+Business Intelligence Manager - Technology
+Software Developer / Analyst Programmer / System Analyst (HK$6000 New Joiner Incentive)
+Data Analytics Manager (Mobile Business)
+Senior Programmer / Programmer
+Actuarial Dept. Senior Manager
+**URGENT** 2+ years**Software Engineer / Analyst Programmer (C#.NET) **CAREER GROWTH**
+Manager (DevOps Architect)
+Senior Java Software Engineer
+Bunker Trader
+Salesforce Developer - Insurance - 40k - Contract
+Test Automation Associate (Cantonese Speaker)
+System Architect - PEGA (up to 80000 a month)
+Data Analytics Manager - Technology
+Analyst Programmer / Mobile Application Developer (up to 40k) (And / IOS)
+Assistant Vice President, Business Intelligence
+Analyst, Risk Management (up to 35-45k)
+Research Assistant I/II in the Department of Computer Science (Ref.: 519370)
+Manager / Assistant Manager, Business & Risk Analytics, Retail Credit Approval & Administration
+IT Project Assistant Support (9 months, HK$37685/month)
+Multimedia Developer/ Multimedia Programmer
+Analyst programmer opportunity - Market leading IT program - Public Sector
+Senior Officer, Data Management (Public Corporation, $33K, Contract) (Ref:GTS_JH)
+Junior Options Trader
+Site Reliability Engineer (SRE) - Tier 1 Investment Bank
+Analyst Programmer
+Manager - Tax Technology (MJ002267)
+Analyst programmer
+Postdoctoral Fellow / Research Associate (CAiRS-R13-14/P4.1)
+Database Administrator
+Assistant Data Analytics Manager
+System Administrator - VM
+Postdoc. Fellow / Research Associate (CAiRS-R7-R8/P2.1)
+Data Center Operations
+System Engineer/Senior System Engineer
+Postdoc. Fellow / Research Associate (CAiRS-R7-8/P2.2)
+Programmer / Analyst Programmer
+Analyst Programmer
+Junior Programmer/ Analyst Programmer/ System Analyst (20K-60K) (Fresh grad welcome)
+Analog IC Design Engineer/ Senior Analog IC Design Engineer
+Senior Analyst Programmer, Mobile Application (Back-end)
+Programmers (Ref: IT/02/005)
+Network Engineer (Linux, Cheung Sha Wan, over $40K)
+Senior Cloud Platform Engineer (M365, Intune & SCCM)
+Platform Consultant (Up to 35k+, cloud projects, bonus, medical, etc!!)
+Senior Analyst Programmer
+Material Engineer
+Senior System Administrator
+Full Stack developer - Perm and new headcount, 40 to 60k, SAP to SA Level
+Developer Analyst/Application specialist (run the bank - open)
+PHP Developer (Laravel)
+Freelance Wordpress Developer
+Hong Kong - Manager, Risk Consulting, Financial Risk Management
+Senior Frontend Developer (eDM) - Tourism
+System Engineer (Ref: JDB - System Development)
+Systems Engineer
+(Senior) Manager, Business Intelligence - Financial Services
+Fullstack Developer (Only Frontend/ Backend welcome) (In-house | No OT) (Up to 50k)
+Assistant Vice President, Market Risk & Liquidity Modeling
+Analyst Programmer/Programmer (at the rank of IT Officer/IT Technician)
+Analyst Programmer (Public Sector, NodeJs)
+Analyst Programmer (Angular)
+System Engineer
+Engineer / Senior Engineer (IT Services)|
+Engineer, Network Quality Assurance and Optimization
+Computational Biologist (at the rank of Senior Technical Officer)
+Programmer ( PHP / Wordpress )
+Solution Engineer - Data Centre Virtualization & Data Security Solutions (Welcome Fresh Graduates)
+Database Administrator
+Senior Data Base Administrator
+Assistant Manager / Manager, Market Risk Management (Bank)
+Developer / Senior Developer
+2023 Macau Audit Graduate Programme
+Analyst Programmer (Junior/Senior) - International Bank
+Programmer
+Analyst Programmer 26-28K
+Analog Audio Design Engineer
+Senior Associate - Senior/Junior UI/UX full-Stack developer - Digiqal - Hong Kong
+IT - Sr Manager / Manager (Software Development Lead / Product Development, Agile)
+C# Trading Engineer (Fintech FX Trading Firm, MT4, PERM)
+STEM/Coding Instructor (Primary & Secondary Schools)
+2023 KPMG Graduate Programme - Hong Kong
+Analyst Programmer - 35k x 13, Perm, International Securities Firm
+Trader of Financial Markets
+Analyst Programmer / Senior Analyst Programmer (Flutter)
+Web / Mobile Application Developer (Fresh Graduate welcome) 20K-60K
+Quality Assurance Engineer
+Game Developer
+Analyst Programmer or Programmer
+Analyst Programmer or Programmer
+Senior CRM Analyst / Assistant Manager (Contract)
+RPA Developer (Banking)
+Cloud Engineer
+Trading, State Street Global Advisors, Assistant Vice President
+Systems Specialist / Systems Anlayst
+IT Field Engineer (Entry Level, immediate available, fresh grad is also welcome)
+Engineer / Assistant Engineer (Hong Kong Gold Coast)
+Programmer (Fresh Graduate)
+Programmer (C#) - for ERP (x 2)
+Analyst Programmer / System Analyst (1-year renewable ct)
+Programmer / Analyst Programmer
+System Administrator
+Programmers-  5-day work (Fresh Grad Welcome)
+Tech Lead (Financial Industry - C# .NET Up to 60K+)
+System Architect
+Programmer (1 year contract, renewable) - second to a financial services organization
+Technical Consultant (SQL)
+Application Support  - Up to 50K * 12 + Bonus (Can negotiate up if needed)
+Senior Sitecore Developer
+Senior Application Developer, Foreign Bank
+IT Junior Engineer / Support (5 days work)
+Systems Engineer
+Senior Lead Engineer / Lead Engineer, Computer Vision/ 3D Vision
+Senior Systems Engineer
+Part-Time Coding & STEM Tutor /  兼職 編程及STEM 導師
+[Technology] - DevOps Team Lead
+Computer Officer / Assistant Computer Officer / Programmer I (Ref: 2300269)
+Java Developer
+Service Technician
+Data Center Specialist
+Analyst Programmer - 5 day work
+Support Engineer (Kai Tak/ North Point)
+Analyst Programmer / Senior Programmer (Cloud Based Application) - KL
+Multimedia Developer/ Multimedia Programmer
+Market Data Business Development – VP(SM)
+Assistant to Deputy Manager, Risk & System Management (Collection)
+Senior Economist
+Software Quality Assurance Engineer
+Trainee -Web / Programmer / Business System Analyst / Data Analyst / System Engineer (Welcome Fresh)
+Application Developer (Java/Kafka/Tier1 Investment Bank)
+Analyst programmer_Financial institution_JAVA
+Linux System Engineer , up to 40K
+Fund Operation Assistant / Analyst Assistant
+Mechatronics Engineer (HK)
+IT Officer
+System Analyst (Ref: AO-472-J)
+Product Manager | Smart Living - AI / IoT
+Head of AI & Robotics
+Project Manager (Cloud data migration project)
+(Assistant) CRM Analyst (Regional)
+Senior Analyst - Distribution Network Operation Optimisation -OMS (2-Year Contract)
+BIM Modeller (Ref.: BM/23/190)
+Web Developer - PHP (35-40K x 13 Months + Bonus)
+IT Specialist (Ref: H03/2023/11)
+(Senior) System Administrator
+(Senior) Android Developer – Banking
+Postdoctoral Fellow / Research Associate (CAiRS-R15-16/P3.4)
+Solution Engineer (Welcome Fresh-grad)
+IT System Engineer
+GIS Analyst
+Application Developer (Java)
+Assistant Manager / Manager, Credit Risk Analytics (Bank)
+Web Developer (2 yrs exp, over $35K, JavaScript))
+Hong Kong –  Senior System Analyst, Technology Enablement (MJ001640)
+Senior Digital Workplace Engineer (~ HK$45,000 per month) (Ref. No.: 26144)
+Senior System Architect
+Analyst Programmer/ Programmer (Web/ Java/ Mobile App/ C#) (20K-55K)
+Back-end Analyst Programmer (Mobile | JAVA | Up to 40k)
+System Analyst / Senior Analyst Programmer  (FinTech / Banking - Web /Mobile Application)
+Java Programmer/Senior Programmer (Up to 45k) Java, Spring, Oracle
+Cloud Analyst Programmer (35k | Power BI | Azure | C#.net / JS)
+Full Stack Developer (React/Node/Java) - Investment Banking
+Research Assistant / Postdoc Fellow (several posts)
+[Product - A&H] - Senior Underwriting, Product A&H
+Senior Analyst Programmer (VCO246/J02)
+Deputy Head, Intelligent Manufacturing and Innovation
+Analyst Programmer - In House, Up to 35K X 13 + Bonus
+Quality Assurance Analyst / IT Development Group / (WFH Policy)
+Programmer (Web application)
+2023 KPMG Graduate Programme - Hong Kong - Actuarial
+Manager, Planning
+Application Support Consultant (Global Consultanting Company)
+Programmer (Welcome Fresh graduate join us)
+Senior Engineer (PI) / Engineer (PI), Automation
+Service Technician
+Manager, IT Application (Investment)
+Application Developer (Java / Mobile, sizable project, Perm role 45K) (Ref. No.: 11287)
+People Advisory Services - Rewards and Recognition -Senior Consultant / Manager - Hong Kong
+Senior Facility Planning Engineer - Data Center (Ref: JDB- R94655)
+System Analyst (Linux Platform)
+Java System Analyst (In-house project; Senior Analyst Programmer welcome) (Perm. Up to 60k + bonus)
+R&D Enginner
+ReactJS Developer
+Client Service Consultant
+Senior System Engineer (5 days / Kwai Chung)
+Mobile Application Developer
+Full-Stack Developer | Reactjs & Nodejs/ Java (Large-scaled Cloud Solutions)
+Programmer/ Senior Programmer (5 days work)
+Technical Engineer (Public Sector)
+Cloud Engineer
+AVP/ Manager, Portfolio Analytics & Reporting, Consumer Credit Risk Manager
+Business Project (Equities trading) - AVP
+Business Analyst Manager
+C# Analyst Programmer (C# / OOP) | inhouse Digital Transformation
+AVP, Network Engineering, Enterprise-scale Environment - Financial Services - 60-75K+4-6 mths Bonus
+Web Developer/Analyst Programmer, School IT Systems
+Marketing Tech Solution Engineer
+Hong Kong - Data Governance Specialist - Senior Consultant/Manager/Associate Director (MJ001796)
+Product Developer - Soft Accessories
+System Analyst (Java/FX Trading) ~ Listed Conglomerate
+Credit MIS Reporting Manager ( Up to 60k with Attractive Bonus )
+Analyst Programmer/ Senior Analyst Programmer - Insurance Perm - 32-40K x 12 + Super good bonus
+Deputy Head of Treasury Application Development
+Head of Credit Risk - Mox - (2300003685)
+Internship (Customer Team) - 6 month Full Time Internship - (2300001579)
+Senior Architect (developer, up to 70K)
+Junior IT Engineer
+IT Manager, Security and Compliance Administration
+Senior Analyst Programmer / Analyst Programmer / Programmer - Java (FinTech and Innovation)
+Unity 3D Developer
+Manager / Senior Manager, Liquidity & Interest Rates Risk
+Medical Science Liaison, Vaccines (12-month contract)
+Assistant Actuarial Manager /Senior Actuarial Analyst - Asset Liability Management (ALM)
+Senior Pricing Analyst
+Analyst Programmer (Java Applications)
+Programmer (Java, Perm Role, Kwun Tong, Performance bonus is provided)
+Graduate Engineer Trainee - Mox - (2300003681)
+Electronics Technician / Engineer
+Formulation Development - Scientist / Senior Scientist - Pharmaceutical
+研發總監 / R&D Director
+Execution Quant, APAC
+Technical Project Manager
+Senior Developer (C#.Net)
+Front of House Management Opportunities, London UK
+System Administrator
+Crypto OTC Sales Trader
+Data Assurance Manager (Public Institutional, Data Governance)
+Principal Engineer / Senior Engineer / Engineer for Physical Layout Design
+IT Officer (Job Ref: IT/ITO220627/230105)
+Manager, IT Application (Investment)
+.Net Programmer (In-house, Perm role, 5 days work, Fresh grad / bootcamp grad is also considered)
+Senior Analyst Programmer (Oracle EBS)
+.Net Developer, Financial Services
+Network Engineer
+CRM Credit System Specialist
+System Analyst / Analyst Programmer (Java)
+Deputy Director / Senior Manager / Chief Engineer/ Principal Engineer, Smart Electronics
+Analyst Programmer / Senior Programmer / Programmer (Fitech Company)
+(Senior) Business Strategy Manager - Middle Office AMC
+Food & Beverage Management Opportunities, London UK
+Unix/Linux System Administrator (IT)
+Programmer/ Senior Programmer (Fresh Graduates Welcome)
+Senior Dealer(Head of Southeast Asia)
+Business Applications Manager
+(Recruitment Day) - Executive Assistant IIIA, Various Departments, Kowloon West Cluster
+Senior Solution Analyst
+Business Analyst/ Specialist(Unix/ Security/ cloud) /Architect /SA-AP(c#/Java/CICD)/ DBA /Test Lead
+JAVA Developer
+Customer Digital Platform Lead
+ADMINISTRATOR - TEMPORARY (Job Ref: AI/AMLPT/JD)
+System Analyst /Analyst Programmer (Bank holidays, medical insurance, bonus)
+Senior Web Programmer - Guaranteed 13 months salary
+Junior Database Administrator | Financial Services | Up to 55K
+Senior Engineer, Configuration
+Java Developer
+Quantitative Trader (Defi)
+Senior System Specialist – Perm up to 38k
+Associate IT QA & Testing Services Lead
+Technical Lead
+Senior System Analyst – Multinational Bank
+Senior Manager, Market Data Governance - Financial Services
+System / Cloud Solutions Architect
+Senior Manager (Suptech) - Intermediaries Supervision, Intermediaries [Ref.:JDB/SM/IS/INT/230106]
+Assistant Vice President / Manager, Credit RWA Solutions
+Analyst Programmer/System Analyst (Oracle/SQL/Unix, Banking) (Ref.GTS_ETL_BI)
+Senior Software Development Manager [Perm Inhouse role, up to 80K]
+(Senior) ReactJS Developer - Leading Bank
+Systems Specialist, AIX / Linux (IT Data Centre)
+Application Architect (Java), Adobe cloud Architect, Salesforce Consultant, SA (Java)
+Senior Lecturer (2 posts) (Ref.: 517475)
+Associate / Sr. Associate, Risk Management (Private Equity)
+Java Analyst Programmer/ System Analyst [Perm Role, Bank, 35 -50K]
+QA Analyst / Quality Assurance Engineer ( Fintech )
+C#/.Net Engineer - System Analyst - Top-tier Insurance Firm
+Manager/Senior Manager, Actuarial Reporting
+Senior Research Fellow
+Staff Engineer / Engineer, Robotics
+Senior IT Officer – IT Infrastructure (Five day work week)  (Ref: JD/SITOITI)
+(Senior) Analyst Programmer (C#/.net)- 30-45k
+Engineer (2-Year Contract) [Ref.: CLPP-PSBG-SG&I-SGD-E]
+System Administrator
+Systems Specialist (Unix)
+Web Developer / Web Designer - Digital Asset / NFT / Metaverse / Web3
+System Analyst (Data), System Analyst (Java), Analyst Programmer (Java)
+Manager, Compliance (Tech risk) 合規經理
+Technical Lead – Mobile & E-Banking
+Developer/ Analyst Programmer (Java/ Banking/ Insurance)
+Architect / Senior Specialist / Specialist I (Solution Development)
+Trading Support - Information Technology Department (1-year renewable contract)
+Senior Systems Assurance Consultant / Senior Human Factors Consultant
+Analyst Programmer (Java, Admiralty, over $40K)
+Manager, IT Application (Investment)
+Manager, App Tech Lead (5 days)
+Risk controller / manager
+Engineer / Assistant Engineer (Hong Kong Gold Coast)
+Operations Specialist - Top Tier Hedge Fund
+Contract Cloud Service Engineer
+Business Analyst - Regulatory Reporting Platform
+IT Manager
+IT Senior Manager - Top Insurance Company HK$55K - HK$75K/m
+Senior Analyst Programmer (C#.NET) Insurance
+Java Algorithmic Trading Developer
+Research Assistant, Robotics
+Senior System Administrator - Linux (Kowloon Tong)
+Settlement Manager (OTC)
+Payroll Consultant (Wanchai)
+System Engineer - PERM - Stable & Well-established Organization
+Actuarial Internship
+Senior Network Engineers/Assistant System Manager/System Engineers (HK$25K-60K)
+QA Engineer - Insurance (Regional)
+Assistant Engineer (Radio Planning_RL11)
+Associate - Equities Derivatives Product - Equities Product Development (R000609)
+Senior Network Engineer - Associate - Network Operations - IT (R000281)
+Project Officer / Business Analyst / Project Engineer / Programmer
+Payroll Administrator (Fresh Graduate welcome)
+Fund Operations Associate for a Fast Growing Hedge Fund based in Town (Training Provided)
+Infrastructure Solution Architect - AVP - Infrastructure & Operation - IT (R000140)
+Assistant Manager, Enterprise Risk, Risk Management
+Electronic Engineer
+Grad Analyst, Investment Risk (Investment Office)
+Senior and junior IT Officer(2-3 years) - Network and/or Server Support (up to 42000 a month)
+Senior Officer for IT Security| Top Tier Bank| Up to 28k
+Application Support
+IT Manager
+OSS Engineer - Network Operations
+Engineer III (Development) (Ref: CDD-D-EIII-JD)
+Manager, IT Audit
+Manager / Senior Manager, Credit Risk MIS (Risk Management)
+Senior Analyst (IT Security Assurance), Information Technology
+ETL Developers
+Manager and Strategic Lead, Learning Innovation, Teaching and Learning Centre
+IT Tester / Quality Assurance Engineer (Manual / Automation testing) (20K- 42K)
+Technology - Solution Architect
+Officer (IT)
+Senior Manager (IT Infrastructure + DevOps), Fintech, 80K x 13, Perm
+Assistant Manager, Customer Value Management (SAS programming)
+Management Trainee - Human Resources Track (Early Career Leadership Program)
+Engagement Manager / Senior Consultant
+System Analyst – FinTech Application (Ref: JD-FIN-SA)
+System Analyst
+Manager – Policy, Registration and Oversight (Research) (1 year contract)
+Software QA Engineer / QA Tester / UAT Tester |  ( Manual / Automation )
+Teaching Assistant(s)
+Technical System Support, Infrastructure - Professional MNC - Perm - 35-45K + Bonus
+Senior Officer - IT Audit
+Exchange Operations Associate (Afternoon Shift)
+Manager, Valuation and Advisory Services
+Credit Risk Manager Manager (Modelling)
+Senior CRM Specialist - Marketing - Hong Kong
+Senior/ System Analyst (Legacy Innovations and Provisioning, VAS & Backend)
+Senior/ QA Engineer
+Strategy and Transactions - FS - EYP - Strategy (Analytics Driven) - Manager / Senior - Hong Kong
+Business Analyst (Banking Industry) (20-45K, negotiable)
+Senior Systems Engineer
+IT Manager
+Fund Operations Specialist - Hedge Fund
+QA Engineer from a leading insurance firm
+Systems Analyst (IT Service Platform) (PR0253/21-22)
+Assistant Information Manager I/II (Application Development) (Post Ref.: 23/41)
+Manager / Assistant Manager, IT Architect
+Solution Architecture Manager – Diversified Business IT Support
+Web & Graphic Designer (Full time or Part time)
+Director of Sourcing
+PreSales Specialist Trainee [Night Shift]
+Assistant Manager (Infrastructure)
+Principal Systems Analyst - AVP - Derivatives System - IT (IRC27781)
+System Engineer
+Team Lead of Settlement
+Postdoctoral Fellow / Research Associate (p3.3 - Forecasting maintenance)
+Assistant Business Analysis Manager/Senior Business Analyst
+Senior Business Planning Analyst
+Senior System Engineer/ AM, 40K, Perm, Financial Services
+Technical Consultant Trainee
+System Analyst / Senior Analyst Programmer (SA/SAP)
+Electronic Engineer (Up to $40K, Bonus, 5-day, Kwun Tong)
+Consulting - Cyber Security - Cyber Threat Management - Staff Associate - Hong Kong
+Payroll Consultant (Wanchai)
+Senior and junior IT Officer - Network and/or Server Support (up to 42000 a month)
+Technical Business Analyst (Virtual Bank)
+IT Tester / Quality Assurance Engineer (Manual Test / Automation) (20K- 42K)
+Actuarial assistant for I17(base in Shenzhen)
+Actuarial Manager for I17 (base in Shenzhen)
+Technology - Technical Solution Lead
+Actuarial manager /Assistant Manager for RBC(base in Shenzhen)
+Chief Technology Officer/IT Manager (IT Communication Platform Company)
+Cyber Security Manager - $70-90k
+高級系統維護工程師
+Regional Business Analyst – Perm role, up to 40k (Ref_3477)
+Front-End Developer
+System Analyst - Banking 550 to 630k Perm
+Senior BIM Coordinator / BIM Coordinator / BIM Modeller (Civil Engineering / Structure)
+HKJC Finance Placement Programme 2023 (6-month/12-month Placement)
+System Administrator/Senior System Administrator (PERM, 35k, Linux/Unix)
+Instructor II (PR0412/22-23)
+Technical Officer, Network Performance Assurance (Welcome Fresh Graduate)
+Assistant Engineer, Site Quality Assurance
+Senior Systems Engineer Associate -Technical Services-Infrastructure & Operations - IT (R000613)
+Research Assistant in the Department of Electrical Engineering (Appointment for 12 months)
+System Analyst / Technical Lead
+Assistant Manager/ Manager (Database Administrator) - Information Technology Department
+Intern, Customer Relation Management (CRM)
+Digital Security Manager
+Solution Consultant - Data Centre Virtualization & Data Security Solutions
+Senior Business Analyst - Financial Application
+Electronics Design Engineer
+Senior Network Specialist
+Assistant IT Officer I in the Computing Services Centre (Appointment for 12 months)
+Assistant Engineer in the Department of Electrical Engineering (Appointment for 12 months)
+IT Manager
+Research Assistant II (2 posts) (Ref.: 519280)
+Senior Officer for IT Security| Top Tier Bank| Up to 28k
+IT Officer (Development) in the Computing Services Centre (Appointment for 12 months)
+Senior Officer, ISTOA (1-year contract)
+Anaylst, Business Development- Business Operations Department
+Engineer - Radio Network Planning
+Engineer - Radio Network Coverage Planning
+Project Associate/Project Assistant
+Research Analyst
+CRM Manager - Leading Luxury Retail Group
+Part-time Digital Services Assistant
+Part-time Project Assistant
+Manager, Communications & Roaming Services
+中台运营支持 - 投资管理部
+Senior IT Security Assurance Analyst | FSI | Perm | 600-850k annual package
+IT Manager, Security and Compliance Administration
+Information Technology Officer
+Business Analyst
+Risk Manager (Digital Assets)
+Windows Engineer, Financial Services
+Senior Infrastructure Solution Manager - Technology Infrastructure - IT - AVP (R000140)
+Hong Kong – Consultant, Cyber Security (Penetration Testing)
+System Engineer / System Administrator
+Sales Assistant/Tactical Developer - US Investment Bank
+Solution Architect (Banking)
+Senior IT Officer - Network and/or Server Support (up to 42000 a month)
+Quality Assurance Engineer (Manual Test / Automation)(Up to 35k, Welcome Junior**)
+Engineer / Project Engineer (Geotechnical Engineering) (Permanent / One-year contract)
+Senior Solution Lead
+Microstrategy Developer
+Assistant Technical Manager, Application Development - ITSD - 289
+Assistant Geologist (Graduate Position)
+QA Engineer (HK$28K - $40K) (Ref. No.: 26162)
+ERP System Administrator
+Assistant Manager, Customer Value Management (SAS programming)
+Quality Assurance Manager
+Manager
+System Engineer - Wireless Network
+IT Risk Manager - Top-tier Chinese Bank
+Cloud Security Engineer -- Top tier international bank (Relocate to Guangzhou)
+Engineer  (2-Year Contract) [Ref.: CLPP-PSBG-SO-OP-E]
+Operations Officer
+Investment Analyst / Assistant
+Project Officer/Coordinator
+Senior Network Engineer
+Assistant Manager (Public Sector, IT Infrastructure)
+( Frontend / Backend ) Web Developer
+Engineer/Project Engineer/Sr Engineer (Structural Engineering for Energy Infra) (Perm/1-yr Contract)
+Principal Network Engineer - Network Engineering - IT - AVP (IRC28600)
+Senior BIM Coordinator (Civil Engineering)
+Manager, Finance Transformation
+Assistant IT Manager in the Enterprise Solutions Office [Ref. D/371/03]
+Project Director (Software Engineering)
+Associate, Investment Risk
+Manager / Assistant Manager - OTC Products Operations, GTO (GTO/CL)
+Assistant Principal Economist (Research)
+Cloud Engineer
+Assistant BIM Engineer (Reality Capture)
+Senior Engineer (PI) /Engineer (PI), Electronic Engineering
+Senior System Analyst (Up to 40K+)
+IT Manager - Dynamics AX
+Cyber Threat and Vulnerability Manager - AVP - Information Security - IT (R000531)
+Hong Kong - Manager, Deal Advisory, Deal Strategy (MJ001802)
+Actuarial assistant for I17(base in Shenzhen)
+Research Assistant I/II (Ref.: 519185)
+Actuarial Manager for I17 (base in Shenzhen)
+Assistant Engineer, Network Quality and Customer Experience Assurance
+Hong Kong – Analyst / Assistant Manager, Deal Advisory, Deal Strategy (MJ001799)
+Senior Engineer, Network Quality and Customer Experience Assurance
+IT Audit Manager (Permanent, In-House)
+Assistant Credit Officer / Credit Officer
+Actuarial manager /Assistant Manager for RBC(base in Shenzhen)
+Data Manager
+Digital Engineer
+Accounts Clerk/Accountant/Assistant Accounting Manager/Financial Analyst - 5 days
+Development Manager - Fixed Income Technology (Global Investment Bank)
+Senior IT Officer - Network and/or Server Support (up to 42000 a month)
+Research Assistant (2 positions) (Job ID: 8497)
+Graduate Environmental Consultant, Environment (Environmental Modelling)
+Web Developer / Senior Web Developer
+Cloud Security Team Head
+HSBC_ Senior Finance Manager - Trading Wind Down (TWD) (Contract role - 84K approx)
+Digital Delivery & Transformation Principal- Insurance Company
+Assistant Vice President, Application Development Team (Banking Systems)
+Assistant Manager - AIoT
+Application Support
+Control Engineer
+Actuarial Dept. Manager for RBC
+Senior Application Support, Equities Derivatives
+IT Audit Manager, Listed Property Development Group, Perm, 75K
+Research Assistant – Department of Supply Chain and Information Management
+Assistant Manager, Customer Value Management (SAS programming)
+Seasonal Lifeguard (Swimming Pool)
+Quality Assurance Engineer ( QA / UAT Tester )
+Hedge Fund Operations Associate
+Strategy and Transactions-Financial Services-EYP-Strategy(Analytics Driven)-Manager/Senior-Hong Kong
+Research Assistant [Appointment period: twelve months]
+Business Analyst (Banking Industry) (1-5 yr of exp) (20-40k) (URGENT)
+Senior Specialist / Specialist I (Cloud Platform)
+Project Manager , Top tier Chinese Corporate bank
+Business Process Transformation (Associate)
+Operation Analyst, Asset Mgt
+Operation Analyst, Asset Mgt
+Senior System Analyst/ System Analyst (Permanent Role with Full Benefits)
+Assistant Manager/ Manager (Database Administrator) - Information Technology Department
+Tester / Quality Assurance Engineer (Manual Test / Automation) - Good Career Prospect!
+ASIA EQUITY RESEARCH
+Project Engineer - Project Management and Service Access
+Full-time/Part-time Research Assistant I/II (Ref.: 519369)
+Engineer - Radio Network Optimization
+Assistant Project Manager (District / Centralised Cooling System)(2-year contract)
+Senior Research Assistant/Research Assistant I (Ref.: 519105)
+Part-time Student Research Assistant (holding the functional title of Project Assistant) (519318)
+Consultant - Digital Design Implementation
+Commissioning and Quality Engineer/ Electro-Mechanical Engineer/ Electronics Software Engineer
+Senior Manager (Suptech) - Intermediaries Supervision, Intermediaries [Ref.:JDB/SM/IS/INT/230106]
+Graduate Engineer/ Assistant Engineer / Engineer II (Process Design / Risk Management)
+QA Engineer, Automation/ Manual ( Fresh Graduates are welcome )
+Postdoctoral Fellow / Research Associate (CAiRS-R9-R10/P3.1)
+Database Administrator (Up to $65k, Luxury Retail, MSSQL)
+IT Officer/IT Technician
+Postdoctoral Fellow / Research Associate (CAiRS-R19-20/P5.3)
+Tenure-Track Assistant Professor in History with a focus on Digital History (Ref.: 517317)
+Business Analyst/ UAT Specialist
+Post-doctoral Fellow (Ref.: 519228)
+Postdoctoral Fellow / Research Associate (CAiRS-R23-24/P5.2 - Integrity of Sensor Data)
+Engineer (LIMS Operation and Maintenance)
+Junior IT Trainee / System Analyst  - Web / Big Data / Business Analyst / Android iOS Developer
+Lead Data Analyst (Power BI)
+Hong Kong – Consultant, Cyber Security (Red Teaming and Penetration Testing)
+Instructional Assistant  (Job ID: 8473)
+Lead of Fraud Risk Management/ Manager of Fraud Risk Management - Mox - (2300000972)
+Application Development Manager - System Assurance
+Analyst Programmer
+Senior Cybersecurity Officer
+Electronic Technician / Assistant Electronic Engineer
+IT Specialist
+Hong Kong – Senior Consultant, Cyber Security (Penetration Testing)
+Senior IT Officer - Network and/or Server Support (up to 42000 a month)
+Senior Engineer / Engineer / Engineering Associate, Electronics
+Hong Kong – Senior Consultant, Cyber Security (Red Teaming and Penetration Testing) (MJ001637)
+Assistant Manager, Collection Governance&Strategy - (2300004374)
+Manager - Delivery manager / Project manager - Digiqal - Hong Kong
+Manager/Assistant Manager (Agency Training, Digital Innovation and Growth)
+Cloud Engineer (Hong Kong)
+Infrastructure & Cloud Engineer
+Chinese Traditional (Hong Kong) Freelance - Remote
+Human Language Tech Specialists,Computer Savvy Translators,Lexicographers
+Razerstore Evangelist
+Assistant Vice President, IT Architect
+Senior BI Manager (Supply Analytics) (Bangkok-based, Relocation Provided)
+Manager / Senior Manager, Transformation
+Senior Research Director
+Senior Product Manager (Bangkok-based)
+Director Marketing Analytics (Bangkok Based, Relocation Provided)
+Assoc Director Performance Marketing (Bangkok Based, Relocation Provided)
+Senior Research Director
+AI Developer / Data Scientist (AI and IoT | Fresh Graduate to Senior)
+Software Engineer
+Data Analyst ( Part-time)
+Machine Learning Engineer
+Senior Quantitative Developer (Python)
+Term Data Analyst (Immediately Required)
+Data Analyst (Youth Worker)
+Software Engineer Inern(AI / Machine Learning Programming)
+Intern, Valuation
+Assistant Customer Data Analyst / Senior Customer Data Analyst
+Junior Programmer
+Web Application Developer (Node.js/PHP/Python)
+Software Engineer
+Data Analyst
+Software Engineer
+Data Analytics Consultant
+AI Specialist
+System Analyst (Big Data)
+Senior Software Engineer (Cloud / Blockchain / Web3)
+Senior / Software Engineer - Linux
+Full Stack Engineer (Typescript)
+Associate, eTrading Developer
+Software Engineering Internship - Summer 2023
+Software Engineer (R&D)
+Senior Research Engineer (Green Technologies)
+Software Programmer_Part time
+Senior Software Engineer
+Software Developer
+Full-time AI Engineer
+Software Engineer (Full Stack)
+Junior Programmer
+Chief Software Engineer
+Senior Manager, Artificial Intelligence and Data Science
+Control Engineer Intern (Robotics and Automation System)
+Full Stack Engineer (Typescript)
+Software Engineer (Machine Learning)
+R&D Project Analyst
+AI 專家
+Part-time STEM Instructor / Tutor (課程導師)
+Equity Data Specialist - Hong Kong (6 Month Contract)
+AI Engineer Summer Intern
+Data Management Analyst
+Application Developer
+Full Stack Lead Developer
+Senior Business & Data Analyst (Life Insurance)
+Signal Processing Engineer (AI and IoT | Fresh Graduate to Senior)
+Research Analyst
+Full Stack Engineering
+Full-time Software Engineer
+(Senior / Junior) Electronics Engineer (Embedded System / Robotic)
+Software Engineer Summer Intern
+Senior DevSecOps / DevOps Engineer
+IT Developer (Full-Stack)
+Content Data Analyst
+Lead Product Developer, Omni-channel Messaging
+Platform Operations Lead
+Programmer
+STEM Internship - Frontend/Backend APP Developer
+Senior AI Researcher / AI Researcher (AR / VR / MR Application Development)
+Fintech Quant Developer
+Programmer (for Fresh Graduates)
+Developer / Senior Developer (Backend)
+Regional - Business Intelligence Analyst
+Business Development Analyst
+System and Application Developer
+Trading Analyst
+Assoicate, Specialist, Data Analytics & Strategic Business Planning, Technology & Operations
+Postdoctoral Fellow in Data Science, Department of Computing and Decision Sciences
+Technician - Robotic and Automation System
+Data Analyst (Customer & Vendor Experience)
+分析程式員 / 高級分析程式員
+Senior Automation Developer
+Trainee, Market Risk Management (One Year Contract)
+Senior Engineer - Java (Defi)
+Software QA Engineer
+XR Application Developer
+Software Engineer
+Implementation Engineer
+Contract Senior CRM Analyst/ Assistant Manager, CRM Analytics
+Full Stack Web Developer
+Senior Salesforce Engineer
+Analyst Programmer / Programmer
+DevOps Architect
+Associate, Product Support, Software Solutions
+Unity3d developer
+DevSecOps / DevOps Technical Lead
+IT Digital Lead
+R&D Data Scientist
+Intern, Data Science
+Machine Learning Engineer
+Intern, Software Development
+Demand Generation Lead - AP
+Senior CRM Analyst/ Assistant Manager, CRM Analytics
+Software Engineering Manager
+Tech & Data Engineer (InnoLab)
+Development Lead - API and Microservice
+Assistant Data Analyst (Part-time)
+Web Developer
+Head of Data and Analytics Sales
+AVP/ Senior Associate, Operational Data Management & Business Analytics, Technology & Operation
+Systems Analyst
+Associate IT QA & Testing Services Lead
+Associate, Product Support, Software Solutions (Private Markets)
+Senior Analyst Programmer
+Senior Sys & App Mgt & Sup Specialist
+全職課程開發員
+Senior Solution Lead - Data Integration and Data Governance
+Senior Java Development Engineer (On-Chain AML)
+Associate / Senior Associate - Data Analyst / Engineer - Actuarial
+Engineer – Robotic Process Automation (Greater Bay Area Program)
+Senior Associate, Cyber Risk, DFIR
+Analyst, Portfolio Valuation
+Engineer Analyst Intern/ Part time
+Application Engineer – Engineering Solutions (Greater Bay Area Program)
+Digital Analyst, Innovation
+Application Architect
+Management Consultant – Data Advisory and Project Management
+Assistant Data Management and Governance Officer
+Market Development Intern
+Research Assistant
+Associate/ Analyst, Specialist, Credit Portfolio Management, SME Banking
+Senior Officer, Digital Experience & Analytics
+Company Financial Auto & Semiconductor Team Leader
+全職小學補習導師(觀塘秀茂坪)
+Consultant / Senior Consultant - Analytics and Reporting - CMD - FCS
+Postdoctoral Fellow, Department of Philosophy
+C++ Lead Software Engineer, Equities Technology
+Postdoctoral Fellow / Research Assistant Professor
+FX & Rates Sales Trainee (One Year Contract)
+程序員
+Engineer (Network)
+Head of Indices China Coverage – Institutional Clients
+IT Developer
+AML Manager – Model Validation
+System Analyst
+Head of Data Science Solutions
+助理項目經理
+System Engineer (Support Cloud & Network projects)
+6.5 months Actuarial Internship Program 2023
+Data Manager
+Solution Lead (BICC Technical Data Model & App DBA)
+R&D Engineer (Robot OS)
+Data Engineer
+Game Engineer
+Senior Retail Risk Data Science Manager
+Aug 2023 Intake: Global Markets Trainee - Sales & Trading
+Technical Sales Engineer (Intern)
+Business Data Analyst
+Systems Engineer (Mobile Systems Engineering)
+Manager, Data, Analytics and CRM (CRM Specialist)
+Senior Consultant
+Senior Developer (Java)
+Senior Manager, Data Analytics - Wealth and Personal Banking
+Analyst Programmer / Senior Analyst Programmer
+Senior Solution Architect (BICC Data & Analytics)
+Java Programmer
+Manager, Data, Analytics and CRM (Business Analytics)
+Intern, Business Operations Transformation
+Martech Capabilities and Data Analysis Implementation
+Science Teacher
+Senior Risk Analyst
+Risk Analyst
+IB MYP Science Teacher (Maternity Cover)
+Analyst Programmer / Programmer (Systems)
+Accelerator Intern for Summer 2023
+Revenue Analyst
+Assistant Data Analytics and MI Manager
+Facility Provisioning Engineer (Data Centre Management)
+合約小學助理學位教師
+Senior Manager, Data and Analytics
+Aug 2023 Intake: Global Markets Research Trainee (One Year Contract)
+System Administrator (Permanent)
+Manager (Robotics Process Automation Business Analyst)
+Analyst Programmer (Mainframe)
+API & Integration Architect
+Full Stack Engineering - Digital Business Services
+Automation Development Lead
+Business/Performance Analyst – Talent Acquisition
+R&D Engineer for location-based services (full-time)
+Credit Analyst - RISK WEALTH MANAGEMENT
+Software Developer
+Solutions Architect
+資訊科技助理
+Postdoctoral Fellow, Centre for Film and Creative Industries
+GroupM | Summer Internship Program 2023 Hong Kong
+電腦技術員 (IT Technician)
+Fintech Software Engineer
+Quality Assurance Analyst, Platform Development (Contract)
+Enterprise Architect - Data
+風險管理主任
+Fintech Data Engineer
+Senior Lecturer / Lecturer, Department of Finance and Insurance
+System Engineer
+R&D Engineer
+Web Developer
+Postdoctoral Fellow, Hong Kong Catastrophic Risk Centre
+Tech & Innovation Consultant (InnoLab)
+Research Associate
+Senior Trade Surveillance Analyst
+Full Stack Engineering - Digital Business Services
+CGW Operations, 2023 Full Time Analyst
+Analyst Programmer (System Development)
+Digital Senior Infrastructure Engineer Team Lead
+Cloud Native Java Developer (Sustainable Investing Solution, AD)
+Senior Tech Engineer - Chapter Lead
+Analyst Programmer (Digital Transformation)
+Senior Manager, Market Risk Management
+地產學徒 [新界西]
+Non Traded Market Risk Manager
+Counsellor (Development Officer)(Open Up - Jockey Club Online Youth Emotional Support )
+Analyst 2
+(Senior) Digital Strategy and Transformation Manager (RPA & Test Automation)
+Analyst Programmer (Technical Operation)
+Solution Lead
+Markets - APAC Equity Funding Trader
+Wealth Management – Cross-Asset Trading, FICC Investment Product Specialist - Associate
+Fintech DevOps Engineer
+R&D IoT Engineer (full-time)
+Postdoctoral Fellow, Centre for Film and Creative Industries
+Research Fellow
+Regional Assistant CRM Manager
+Strategic Planning Analyst
+Specialist Engineering
+IT Officer - Analyst Programmer (EO2) (Services for the Elderly)
+Corporate and Investment Bank - Securities Services - Agency Securities Finance Trader - Equities & Fixed Income, Associate
+Corporate and Investment Bank - Securities Services - Agency Securities Finance Trader - Equities & Fixed Income, Associate
+AVP,Specialist, Product Management - Bancassurance, Consumer Banking
+Business Risk Intermediate Analyst
+Product Management Manager
+Simulator Technician
+統籌主任(教學)(6日) (九龍城啟晴)/Centre Coordinator(Teaching) (6 DAYS) (Kai Ching, Kowloon City)
+Yue Chinese Speech Data Collector in China
+Manager (Academic Analytics)
+兼職售貨員/店務員
+Chinese Data Collector
+Fintech Cloud Engineer
+Developer
+Programmer
+Solution Consultant
+Senior Support Analyst
+Marketing Analyst(Asso/Analyst/Senior)
+Product Engineering Trainee
+Officer (IT)
+Linux System Engineer
+Head of Product Engineering
+Associate Director, FRO Trading
+Assistant IT Officer (Web Applications) in the Information Technology Services Unit
+Strategic Planning and Stress Testing Manager (Scenario)
+Technical Business Analyst
+Executive Assistant I
+REGULATORY REPORTING AND SURVEILLANCE OFFICER
+Information Technology Officer
+IT Officer/Assistant IT Officer (Full-time/Fractional) in the Quality Assurance and Enhancement Unit
+Term / Part-time (Daytime) Assistant Lecturer
+Senior Solution Lead
