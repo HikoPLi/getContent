@@ -1,3 +1,6 @@
+import re
+
+
 def URL(i):
 
     URL = "https://hk.jobsdb.com/hk/search-jobs/python/" + str(i)
@@ -6,7 +9,7 @@ def URL(i):
 
 
 def BASEURL():
-
-    BASEURL = "https://hk.jobsdb.com/hk/search-jobs/python/1"
+    query = 'python'
+    BASEURL = f'https://hk.jobsdb.com/hk/search-jobs/{query}/1'
 
     return BASEURL
