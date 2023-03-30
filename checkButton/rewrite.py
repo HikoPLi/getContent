@@ -1,7 +1,7 @@
 def rewrite():
 
     try:
-        with open("Content" + ".txt", "w") as outfile:
+        with open("Content(CheckButton)" + ".txt", "w") as outfile:
             outfile.write("")
 
     except:

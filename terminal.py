@@ -5,24 +5,19 @@ from restultAmount import RAmain
 import rewrite
 
 
-def choice(input):
-
-    if input == "1":
+def choice():
+    userChoice = input("Select 1, 2, 3, 4: ")
+    if userChoice == "1":
         CBmain.main()
-        rewrite.rewrite()
 
-    if input == "2":
+    if userChoice == "2":
         CURLmain.main()
-        rewrite.rewrite()
 
-    if input == "3":
+    if userChoice == "3":
         ECTFmain.main()
-        rewrite.rewrite()
 
-    if input == "4":
+    if userChoice == "4":
         RAmain.main()
-        rewrite.rewrite()
 
 
-userChoice = input("Select 1, 2, 3, 4: ")
-choice(userChoice)
+choice()
