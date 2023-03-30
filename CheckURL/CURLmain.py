@@ -1,8 +1,10 @@
 import checkURL
 import content
+import rewrite
 
 
 def main():
+    rewrite.rewrite()
     i = 1
     while i < 99999:
 

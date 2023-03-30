@@ -1,5 +1,5 @@
-import request
-import exportContentToFile
+from checkButton import request
+from checkButton import exportContentToFile
 
 
 def content(URL):

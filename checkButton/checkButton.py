@@ -1,5 +1,4 @@
-import URL
-import request
+from checkButton import request
 
 
 def checkButton(url):

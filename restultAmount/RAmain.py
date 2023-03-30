@@ -2,6 +2,7 @@ import checkResultAmount
 import URL
 import math
 import content
+import rewrite
 
 
 def main():
@@ -9,8 +10,7 @@ def main():
     pages = int(number_string.replace(",", ""))
 
     loops = math.ceil(pages/30)
-    # print(pages)
-    # print(loops)
+    rewrite.rewrite()
     i = 1
     while i < loops:
         i = i + 1
