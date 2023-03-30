@@ -1,5 +1,5 @@
-from component import request
-from component import exportContentToFile
+import request
+import exportContentToFile
 
 
 def content(URL):
@@ -7,5 +7,4 @@ def content(URL):
 
     for row in table:
         text = row.text
-        # print(text)
         exportContentToFile.exportContentToFile(text)
