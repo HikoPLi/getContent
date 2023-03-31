@@ -5,19 +5,15 @@ from restultAmount import RAmain
 import rewrite
 
 
-def choice():
-    userChoice = input("Select 1, 2, 3, 4: ")
-    if userChoice == "1":
-        CBmain.main()
-
-    if userChoice == "2":
-        CURLmain.main()
-
-    if userChoice == "3":
-        ECTFmain.main()
-
-    if userChoice == "4":
-        RAmain.main()
+def example_switch_case(argument):
+    switcher = {
+        1: CBmain.main(),
+        2: CURLmain.main(),
+        3: ECTFmain.main(),
+        4: RAmain.main()
+    }
+    return switcher.get(argument, "Invalid argument")
 
 
-choice()
+userChoice = input("Select 1, 2, 3, 4: ")
+example_switch_case(userChoice)

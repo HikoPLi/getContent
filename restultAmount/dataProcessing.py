@@ -1,17 +1,12 @@
 import re
 import requests
-from bs4 import BeautifulSoup
+import handleInternetData
 
 
-def checkAmount(query):
+def count_result(baseURL, pageNo, query):
 
-    query = input("Search: ")
-
-    url = f'https://hk.jobsdb.com/hk/search-jobs/{query}/1'
-
-    response = requests.get(url)
-
-    soup = BeautifulSoup(response.content, 'html.parser')
+    soup = handleInternetData.fetch_data_from_URL(
+        handleInternetData.url_2_query(baseURL, pageNo, query, True))
 
     result_count_element = soup.find(
         'div', {'data-automation': 'searchResultBar'})

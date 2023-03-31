@@ -1,9 +1,9 @@
-import request
+import handleInternetData
 import exportContentToFile
 
 
 def content(URL):
-    table = request.request(URL).findAll('h1')
+    table = handleInternetData.fetch_data_from_URL(URL).findAll('h1')
 
     for row in table:
         text = row.text
