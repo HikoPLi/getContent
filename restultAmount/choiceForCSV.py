@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import time
 # functions
+import getToGrandparentDir
 import export2CSV
 import handleInternetData
 import os
@@ -13,7 +14,9 @@ def choice4CSV(query, baseURL, lastPage):
     page = 0
     number = 0
 
-    os.chdir(f"../restultAmount/fetchHTML/{query}")
+    print(str(os.getcwd()))
+    os.chdir(f"{os.getcwd()}/{query}")
+
     while page < lastPage:
 
         page = page + 1

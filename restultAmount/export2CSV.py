@@ -6,8 +6,8 @@ import getToGrandparentDir
 
 
 def csvTitle():
-    getToGrandparentDir.grandparentDir()
-    os.chdir('../restultAmount/data')
+    # getToGrandparentDir.grandparentDir()
+    # os.chdir(f'../restultAmount/data')
     title = [
         ['UserInput', 'Page', 'Result', 'URL'],
     ]
@@ -20,8 +20,9 @@ def csvTitle():
 
 
 def csvContent(userInput, page, result, URL, number):
-    if number == 1:
-        getToGrandparentDir.grandparentDir()
+
+    # if number == 1:
+    #     getToGrandparentDir.grandparentDir()
 
     table_data = [
         [userInput, str(page), result, URL, 'No: ' + str(number)]
