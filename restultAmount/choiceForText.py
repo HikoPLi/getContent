@@ -1,12 +1,14 @@
 import os
 import fileIO
 # ---for function
+import getToGrandparentDir
 import handleInternetData
 import content
 
 
 def choice4text(query, baseURL, lastPage):
     print(f"Processing! Please wait!")
+    getToGrandparentDir.grandparentDir()
     os.chdir('../restultAmount/data')
     fileIO.rewrite()
     page = 0

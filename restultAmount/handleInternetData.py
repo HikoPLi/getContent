@@ -7,11 +7,11 @@ def baseURL():
     return BASEURL
 
 
-def url_2_query(baseURL, pageNo, query, testMode=False):
+def url_2_query(baseURL, pageNo, query):  # testMode=True
 
-    if testMode:
-        pageNo = 1
-        query = 'python'
+    # if testMode:
+    #     pageNo = 1
+    #     query = 'python'
 
     URL2Query = f'{baseURL}/{query}/{pageNo}'
 
