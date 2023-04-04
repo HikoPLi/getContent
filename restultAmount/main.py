@@ -16,7 +16,9 @@ def main():
     pages = int(numberString.replace(",", ""))
     # final numbers are like ***,**. Change to number without ","
 
-    lastPage = math.ceil(pages/30)  # getting total pages and ceiling
+    numbersOfElementsInPages = 30
+    # getting total pages and ceiling
+    lastPage = math.ceil(pages/numbersOfElementsInPages)
     print("URL request has been called !")
     print(f"The total page is: {lastPage}")
 
